@@ -1,0 +1,15 @@
+https://shop.rewe.de/c/olivenoel/?search=oliven%C3%B6l 
+https://shop.rewe.de/c/sossen/?search=pesto 
+https://shop.rewe.de/c/tee/?objectsPerPage=80&search=tee
+https://shop.rewe.de/c/tee/?objectsPerPage=80&page=2&search=tee 
+https://shop.rewe.de/c/cola/?brand=Coca-Cola&objectsPerPage=80&search=cola 
+https://shop.rewe.de/productList?objectsPerPage=80&search=kartoffelchips 
+https://shop.rewe.de/productList?search=alufolie
+https://shop.rewe.de/c/toilettenpapier/?search=toilettenpapier 
+https://shop.rewe.de/productList?objectsPerPage=80&search=waschmittel 
+https://shop.rewe.de/c/reis/?objectsPerPage=80&search=reis 
+https://shop.rewe.de/c/sossen/?search=mayonnaise 
+https://shop.rewe.de/c/sossen/?search=ketchup 
+https://shop.rewe.de/c/nudeln/?search=spaghetti
+https://shop.rewe.de/c/eier-ei-ersatz/?search=eier
+https://shop.rewe.de/c/frischmilch/?objectsPerPage=80&search=milch 
