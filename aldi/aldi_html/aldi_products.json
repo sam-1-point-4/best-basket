@@ -1,0 +1,107 @@
+[
+  {
+    "file": "page_001.html",
+    "title": "PHILADELPHIA Frischkäsezubereitung",
+    "amount": "175-g-Schale",
+    "price": "0.99\t\t*",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2025/kw23/produkte/1011877_23-2025_PhiladelphiaDoppelrahm-01_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_002.html",
+    "title": "GUT BIO Bio-Feta",
+    "amount": "200-g-Packung",
+    "price": "2.69",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2024/kw35/produkte/4575_35-2024_BioFeta-01_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_003.html",
+    "title": "KING'S CROWN Premium Cornichons",
+    "amount": "370-ml-Glas",
+    "price": "0.99",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2023/kw49/produkte/4096_49-2023_PremiumCornichons-Honig_ON_Comp.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_004.html",
+    "title": "RED BULL Energy-Drink Classic",
+    "amount": "0,25-Liter-Dose",
+    "price": "1.39",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2022/kw13/produkte/1004898_13-2022_Redbull-Classic_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_005.html",
+    "title": "Bananen",
+    "amount": "kg-Preis",
+    "price": "0.99\t\t**",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2025/kw23/produkte/6151_16-2025_Bananen-01_AN_AI.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_006.html",
+    "title": "STORCK merci",
+    "amount": "Packung",
+    "price": "2.99",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2023/kw06/produkte/3967_06-2023_MerciFinestSelection-08_ON_Comp.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_007.html",
+    "title": "BAMBOO GARDEN Mie-Nudeln",
+    "amount": "250-g-Packung",
+    "price": "1.19\t\t*",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2025/kw24/produkte/1038295_24-2025_BAMBOOGARDENMIENUDELN-04_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_008.html",
+    "title": "Pampers premium protection",
+    "amount": "Packung",
+    "price": "3.38",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/vollsortiment/1918_20-2019_Pampers_Premium_Protection_New_Baby_Gr1_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_009.html",
+    "title": "Wassermelone",
+    "amount": "kg-Preis",
+    "price": "1.29\t\t**",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/obst-gemuese/7200_23-2021_Wassermelone-0292_ON1.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_010.html",
+    "title": "Paprika rot",
+    "amount": "500-g-Packung",
+    "price": "1.19\t\t**",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2024/kw22/produkte/6177_3911_22-2024_PaprikaRot-0192_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_011.html",
+    "title": "MILSANI Frische Vollmilch",
+    "amount": "1-L-Packung",
+    "price": "1.09",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/vollsortiment/1019003_10-2025_FrischeVollmilch-01_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_012.html",
+    "title": "BARILLA Pesto",
+    "amount": "Glas",
+    "price": "1.69\t\t**",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2025/kw06/produkte/1013082_06-2025_BarillaPesto-03_COMP2.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_013.html",
+    "title": "RIO D'ORO Apfelschorle",
+    "amount": "1,5-L-Flasche",
+    "price": "1.19",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/vollsortiment/0291_17-2025_Apfelschorle-01_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_014.html",
+    "title": "LANDFREUDE Eier aus Bodenhaltung",
+    "amount": "10-Stück-Packung",
+    "price": "1.99",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2025/kw11/produkte/1010204_11-2025_EierAusBodenhaltung-01_ON.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  },
+  {
+    "file": "page_015.html",
+    "title": "Eisbergsalat",
+    "amount": "Stück",
+    "price": "0.69\t\t**",
+    "image": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/obst-gemuese/6276_01-2021_Eisbergsalat-02.png/_jcr_content/renditions/original.transform/288w/img.250604.png"
+  }
+]
