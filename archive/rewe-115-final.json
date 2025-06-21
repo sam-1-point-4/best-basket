@@ -1,0 +1,46 @@
+{
+    "olivenoel": [
+        {
+        "name": "ja! Natives Olivenöl extra 750ml",
+        "price": "5,99 €",
+        "unit": "750ml (1 l = 7,99 €)",
+        "imageUrl": "https://img.rewe-static.de/0420386/24710761_digital-image.png?imwidth=304&impolicy=kues"
+        }
+    ],
+    "pesto": [
+        {
+          "name": "ja! Pesto Verde 190g",
+          "price": "0,99 €",
+          "unit": "190g (1 kg = 5,21 €)",
+          "imageUrl": "https://img.rewe-static.de/8101877/29274217_digital-image.png?imwidth=1680&impolicy=pdp"
+        }
+    ],
+    "tee": [
+        {
+        "name": "ja! Kamillentee 37,5g, 25 Beutel",
+        "price": "0,89 €",
+        "unit": "37,50g (1 kg = 23,73 €)",
+        "imageUrl": "https://img.rewe-static.de/0546026/2972440_digital-image.png?imwidth=304&impolicy=kues"
+        },
+        {
+            "name": "REWE Bio Kräutertee 35g, 20 Beutel",
+            "price": "0,95 €",
+            "unit": "35g (1 kg = 27,14 €)",
+            "imageUrl": "https://img.rewe-static.de/8109111/29749173_digital-image.png?imwidth=304&impolicy=kues"
+        },
+        {
+            "name": "ja! Ceylon Indien 87,5g",
+            "price": "0,99 €",
+            "unit": "87,50g (1 kg = 11,31 €)",
+            "imageUrl": "https://img.rewe-static.de/8533461/33094616_digital-image.png?imwidth=1680&impolicy=pdp"
+        }
+    ],
+    "cola": [
+        {
+            "name": "Coca-Cola 6x0,33l",
+            "price": "4,29 €",
+            "unit": "6x0,33l (1 l = 2,17 €)\nzzgl. 1,50€ Pfand",
+            "imageUrl": "https://img.rewe-static.de/0436772/22381388_digital-image.png?imwidth=304&impolicy=kues"
+          },
+    
+    

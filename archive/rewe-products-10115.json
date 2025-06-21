@@ -1,0 +1,3212 @@
+{
+  "olivenoel": [
+    {
+      "name": "Fiore Natives Olivenöl extra 750ml",
+      "price": "8,99 €",
+      "unit": "0,75l (1 l = 11,99 €)",
+      "imageUrl": "https://img.rewe-static.de/2372767/23629840_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Cucina Olivenöl 500ml",
+      "price": "7,99 €",
+      "unit": "500ml (1 l = 15,98 €)",
+      "imageUrl": "https://img.rewe-static.de/4874854/27775625_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Originale Natives Olivenöl Extra 500ml",
+      "price": "7,99 €",
+      "unit": "500ml (1 l = 15,98 €)",
+      "imageUrl": "https://img.rewe-static.de/6551025/33112554_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Natives Olivenöl extra 500ml",
+      "price": "7,99 €",
+      "unit": "500ml (1 l = 15,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0201409/26303545_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "La Espanola Natives Olivenöl extra virgen 500ml",
+      "price": "",
+      "unit": "500ml (1 l = 13,98 €)",
+      "imageUrl": "https://img.rewe-static.de/5475872/1207850_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Feine Welt Natives Olivenöl extra Lesvos g.g.A. 500ml",
+      "price": "8,99 €",
+      "unit": "500ml (1 l = 17,98 €)",
+      "imageUrl": "https://img.rewe-static.de/2178952/22944258_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Natives Olivenöl 750ml",
+      "price": "6,95 €",
+      "unit": "750ml (1 l = 9,27 €)",
+      "imageUrl": "https://img.rewe-static.de/8427501/31887593_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Carapelli Bio Olivenöl 500ml",
+      "price": "9,99 €",
+      "unit": "500ml (1 l = 19,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7037136/26727591_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Brändle vita Natives Olivenöl 100ml",
+      "price": "2,79 €",
+      "unit": "100ml (1 l = 27,90 €)",
+      "imageUrl": "https://img.rewe-static.de/2018420/43523225_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ybarra Olivenöl extra virgin 250ml",
+      "price": "5,69 €",
+      "unit": "250ml (1 l = 22,76 €)",
+      "imageUrl": "https://img.rewe-static.de/8958997/40116236_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Minato Olivenöl Extra Trüffel 250ml",
+      "price": "10,99 €",
+      "unit": "250ml (1 l = 43,96 €)",
+      "imageUrl": "https://img.rewe-static.de/1902635/28592586_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Kunella Natives Olivenöl extra kaltgepreßt 250ml",
+      "price": "6,49 €",
+      "unit": "250ml (1 l = 25,96 €)",
+      "imageUrl": "https://img.rewe-static.de/3866475/661340_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Corovita Bio natürliches Olivenöl extra 500ml",
+      "price": "8,99 €",
+      "unit": "500ml (1 l = 17,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0672893/8654010_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Gentile Natives Olivenöl Extra 500ml",
+      "price": "7,99 €",
+      "unit": "500ml (1 l = 15,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0394440/2425580_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Bio Natives Olivenöl Extra 500ml",
+      "price": "8,99 €",
+      "unit": "500ml (1 kg = 17,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7251096/27890484_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Olivenöl raffiniert 500ml",
+      "price": "6,99 €",
+      "unit": "500ml (1 l = 13,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7288865/28854683_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Originale Natives Olivenöl Extra 1l",
+      "price": "14,99 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/7633122/23269464_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Natives Olivenöl extra 500ml",
+      "price": "11,99 €",
+      "unit": "500ml (1 l = 23,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8476379/32111661_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "La Espanola Natives Olivenöl extra virgen 750ml",
+      "price": "12,49 €",
+      "unit": "750ml (1 l = 16,65 €)",
+      "imageUrl": "https://img.rewe-static.de/9882308/2128840_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Holle Bio Demeter Natives Olivenöl extra 250ml",
+      "price": "7,49 €",
+      "unit": "250ml",
+      "imageUrl": "https://img.rewe-static.de/7877468/49041384_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Natives Olivenöl extra Fruttato 500ml",
+      "price": "7,49 €",
+      "unit": "500ml (1 l = 14,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8253727/29841914_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Bio Natives Olivenöl Extra 500ml",
+      "price": "9,99 €",
+      "unit": "500ml (1 l = 19,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8475575/32112160_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Rewe Beste Wahl Italienisches Natives Olivenöl 500ml",
+      "price": "8,99 €",
+      "unit": "500ml (1 l = 17,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8425181/31525366_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Natives Olivenöl extra Classico 500ml",
+      "price": "7,49 €",
+      "unit": "500ml (1 l = 14,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8104730/28768542_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Piccardo & Savore Natives Olivenöl extra 500ml",
+      "price": "12,99 €",
+      "unit": "500ml (1 l = 25,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1250294/23272331_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gaea Sitia Öl 500ml",
+      "price": "15,49 €",
+      "unit": "500ml (1 l = 30,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7556900/5337890_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Bratolivenöl 500ml",
+      "price": "6,99 €",
+      "unit": "500ml (1 l = 13,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7894863/33970699_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bertolli Bratolivenöl Spray 200ml",
+      "price": "4,49 €",
+      "unit": "200ml (1 l = 22,45 €)",
+      "imageUrl": "https://img.rewe-static.de/7635807/41393206_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ghorban Bio Olio Extra Kreta 500ml",
+      "price": "13,99 €",
+      "unit": "500ml (1 l = 27,98 €)",
+      "imageUrl": "https://img.rewe-static.de/3289455/28083795_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Natives Olivenöl extra 750ml",
+      "price": "5,99 €",
+      "unit": "750ml (1 l = 7,99 €)",
+      "imageUrl": "https://img.rewe-static.de/0420386/24710761_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "sossen": [
+    {
+      "name": "Heinz Tomato Ketchup 50% weniger Zucker & Salz 500ml",
+      "price": "3,49 €",
+      "unit": "500ml (1 l = 6,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8277331/29387629_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hellmann's Tomato Ketchup 500ml",
+      "price": "",
+      "unit": "500ml (1 l = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/9059093/42745832_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Tomatenketchup 300ml",
+      "price": "2,49 €",
+      "unit": "300ml (1 l = 8,30 €)",
+      "imageUrl": "https://img.rewe-static.de/8728306/35783494_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Tomatenketchup 450ml",
+      "price": "2,29 €",
+      "unit": "450ml (1 l = 5,09 €)",
+      "imageUrl": "https://img.rewe-static.de/7170327/20674902_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Tomato Ketchup 220ml",
+      "price": "2,29 €",
+      "unit": "220ml (1 l = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/1085756/29228064_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Tomatenketchup 750ml",
+      "price": "3,29 €",
+      "unit": "750ml (1 l = 4,39 €)",
+      "imageUrl": "https://img.rewe-static.de/1066994/1681110_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Tomato Ketchup 400ml",
+      "price": "2,79 €",
+      "unit": "400ml (1 l = 6,98 €)",
+      "imageUrl": "https://img.rewe-static.de/2411634/23868581_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Born Tomaten Ketchup 450ml",
+      "price": "1,99 €",
+      "unit": "450ml (1 l = 4,42 €)",
+      "imageUrl": "https://img.rewe-static.de/7787596/1026530_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bautz'ner Tomaten Ketchup 1l",
+      "price": "2,99 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/1102949/11760240_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Hot Chili Ketchup 450ml",
+      "price": "2,29 €",
+      "unit": "450ml (1 l = 5,09 €)",
+      "imageUrl": "https://img.rewe-static.de/2328429/24930905_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Tomatenketchup 300ml",
+      "price": "1,29 €",
+      "unit": "300ml (1 l = 4,30 €)",
+      "imageUrl": "https://img.rewe-static.de/7262335/28365301_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Mayomix Mayo Ketchup Sauce 415ml",
+      "price": "3,49 €",
+      "unit": "415ml (1 l = 8,41 €)",
+      "imageUrl": "https://img.rewe-static.de/7827053/35180298_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bautz'ner Tomaten Ketchup 500ml",
+      "price": "2,29 €",
+      "unit": "500ml (1 l = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/9013465/43112931_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bautz'ner Quetch'up Tomatenketchup 500ml",
+      "price": "2,29 €",
+      "unit": "500ml",
+      "imageUrl": "https://img.rewe-static.de/7629896/43112928_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "hello taste Tomatenketchup vegan 300ml",
+      "price": "3,99 €",
+      "unit": "300ml (1 l = 13,30 €)",
+      "imageUrl": "https://img.rewe-static.de/7720231/37781260_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Tomatenketchup ohne Zuckerzusatz 450ml",
+      "price": "2,29 €",
+      "unit": "450ml (1 l = 5,09 €)",
+      "imageUrl": "https://img.rewe-static.de/0167712/1348210_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Tomatenketchup 500ml",
+      "price": "1,89 €",
+      "unit": "500ml (1 l = 3,78 €)",
+      "imageUrl": "https://img.rewe-static.de/0201400/2074620_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Bio Kinder Tomaten Ketchup 450ml",
+      "price": "3,39 €",
+      "unit": "450ml (1 l = 7,53 €)",
+      "imageUrl": "https://img.rewe-static.de/8896076/39083305_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Tomato Ketchup Maxi Pack 800ml",
+      "price": "4,69 €",
+      "unit": "800ml (1 l = 5,86 €)",
+      "imageUrl": "https://img.rewe-static.de/0424439/23267520_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Bio Tomato Ketchup 500ml",
+      "price": "3,99 €",
+      "unit": "500ml (1 l = 7,98 €)",
+      "imageUrl": "https://img.rewe-static.de/9088931/43440214_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Tomato Ketchup 50% weniger Zucker und Salz 220ml",
+      "price": "2,29 €",
+      "unit": "220ml (1 l = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8398604/31503406_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Heinz Tomato Ketchup ohne Zusatz von Zucker und Salz 400ml",
+      "price": "3,49 €",
+      "unit": "400ml (1 l = 8,73 €)",
+      "imageUrl": "https://img.rewe-static.de/8401001/31062006_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Thomy Ketchup 35% weniger Zucker 500ml",
+      "price": "1,99 €",
+      "unit": "500ml (1 l = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7939975/32344231_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Premium-Tomatenketchup 450ml",
+      "price": "2,59 €",
+      "unit": "450ml (1 l = 5,76 €)",
+      "imageUrl": "https://img.rewe-static.de/7447051/7470520_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Gewürzketchup 450ml",
+      "price": "2,29 €",
+      "unit": "450ml (1 l = 5,09 €)",
+      "imageUrl": "https://img.rewe-static.de/7170360/3925620_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Gewürzketchup Curry Delikat 800ml",
+      "price": "3,39 €",
+      "unit": "800ml (1 l = 4,24 €)",
+      "imageUrl": "https://img.rewe-static.de/7633236/41788887_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Gewürzketchup Curry leicht scharf 300ml",
+      "price": "2,29 €",
+      "unit": "300ml (1 l = 7,63 €)",
+      "imageUrl": "https://img.rewe-static.de/9014593/41789788_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Gewürzketchup Curry extra scharf 300ml",
+      "price": "2,29 €",
+      "unit": "300ml (1 l = 7,63 €)",
+      "imageUrl": "https://img.rewe-static.de/7631218/41788816_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Gewürzketchup Schaschlick pikant 300ml",
+      "price": "2,29 €",
+      "unit": "300ml (1 l = 7,63 €)",
+      "imageUrl": "https://img.rewe-static.de/9011061/41789905_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Werder Feinkost Berliner Currywurst Sauce 450ml",
+      "price": "2,59 €",
+      "unit": "450ml (1 l = 5,76 €)",
+      "imageUrl": "https://img.rewe-static.de/8576763/35509566_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hela Gewürzketchup Curry Delikat 300ml",
+      "price": "2,29 €",
+      "unit": "300ml (1 l = 7,63 €)",
+      "imageUrl": "https://img.rewe-static.de/9102670/42139794_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Thomy Rot-Weiß Ketchup & Mayonnaise 200ml",
+      "price": "",
+      "unit": "200ml (1 l = 8,45 €)",
+      "imageUrl": "https://img.rewe-static.de/0467138/3900350_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Tomaten-Ketchup 500ml",
+      "price": "1,29 €",
+      "unit": "500ml (1 l = 2,58 €)",
+      "imageUrl": "https://img.rewe-static.de/7291190/28296386_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Tomatenketchup mit Zucker & Süßungsmittel 500ml",
+      "price": "1,79 €",
+      "unit": "500ml (1 l = 3,58 €)",
+      "imageUrl": "https://img.rewe-static.de/0897016/24881485_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Curry Gewürzketchup 875ml",
+      "price": "2,19 €",
+      "unit": "875ml (1 l = 2,50 €)",
+      "imageUrl": "https://img.rewe-static.de/7618595/42908457_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "tee": [
+    {
+      "name": "REWE Feine Welt Bio Gewürztee Indischer Chai 30g, 15 Beutel",
+      "price": "1,99 €",
+      "unit": "30g (1 kg = 66,33 €)",
+      "imageUrl": "https://img.rewe-static.de/7661262/40635953_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Fenchel-Anis-Kümmel 50g",
+      "price": "2,35 €",
+      "unit": "50g (1 kg = 47 €)",
+      "imageUrl": "https://img.rewe-static.de/5952654/7460190_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Klassik 44g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "43,75g (1 kg = 53,71 €)",
+      "imageUrl": "https://img.rewe-static.de/9523170/1191420_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Marokkanische Minze-Honig 40g, 20 Beutel",
+      "price": "2,49 €",
+      "unit": "40g (1 kg = 62,25 €)",
+      "imageUrl": "https://img.rewe-static.de/8005984/31210581_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer 6-Kräuter-Mischung 50g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "50g (1 kg = 47 €)",
+      "imageUrl": "https://img.rewe-static.de/6817998/2573480_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Italienische Süsskirsche 45g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/7999287/31076893_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Wohltuende 8 Kräuter 40g, 20 Beutel",
+      "price": "",
+      "unit": "40g (1 kg = 37,25 €)",
+      "imageUrl": "https://img.rewe-static.de/3655849/17444410_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Kaminabend 40g, 20 Beutel",
+      "price": "2,49 €",
+      "unit": "40g (1 kg = 62,25 €)",
+      "imageUrl": "https://img.rewe-static.de/7011041/27043195_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Fenchel-Anis-Kümmeltee 60g, 20 Beutel",
+      "price": "",
+      "unit": "60g (1 kg = 24,83 €)",
+      "imageUrl": "https://img.rewe-static.de/3655512/677450_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Krüger Heißgetränk Zitrone 160g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "160g (1 kg = 14,31 €)",
+      "imageUrl": "https://img.rewe-static.de/2914622/25554640_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Schwedische Blaubeere 45g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/8328643/29951122_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Salbeitee 30g, 20 Beutel",
+      "price": "1,49 €",
+      "unit": "30g (1 kg = 49,67 €)",
+      "imageUrl": "https://img.rewe-static.de/2054423/22906455_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teehaus Pfefferminze 70g, 40 Beutel",
+      "price": "1,99 €",
+      "unit": "70g (1 kg = 28,43 €)",
+      "imageUrl": "https://img.rewe-static.de/3557480/9222950_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Persischer Granatapfel 45g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/2219849/23213971_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Hüttenzauber 20 Beutel, 50g",
+      "price": "2,49 €",
+      "unit": "50g (1 kg = 49,80 €)",
+      "imageUrl": "https://img.rewe-static.de/7011038/26997103_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Bio Kräutertee Magenfein 36g, 18 Beutel",
+      "price": "2,89 €",
+      "unit": "36g (1 kg = 80,28 €)",
+      "imageUrl": "https://img.rewe-static.de/9965056/45532275_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Pfefferminztee 30g, 20 Beutel",
+      "price": "1,29 €",
+      "unit": "30g (1 kg = 43 €)",
+      "imageUrl": "https://img.rewe-static.de/1007026/9066010_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Rooibos Vanille 35g, 20 Beutel",
+      "price": "2,19 €",
+      "unit": "35g (1 kg = 62,57 €)",
+      "imageUrl": "https://img.rewe-static.de/2454369/23935709_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Feine Welt Bio Früchtetee Italienische Limone 30g, 15 Beutel",
+      "price": "1,99 €",
+      "unit": "30g (1 kg = 66,33 €)",
+      "imageUrl": "https://img.rewe-static.de/8963051/40635945_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Fenchel 75g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "75g (1 kg = 31,33 €)",
+      "imageUrl": "https://img.rewe-static.de/6818234/7478610_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Türkischer Apfel 55g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "55g (1 kg = 41,64 €)",
+      "imageUrl": "https://img.rewe-static.de/0579891/5229570_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Pfefferminze 56g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "56,25g (1 kg = 41,78 €)",
+      "imageUrl": "https://img.rewe-static.de/6818501/6649570_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Spanische Orange 50g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "50g (1 kg = 45,80 €)",
+      "imageUrl": "https://img.rewe-static.de/1298924/21170466_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Kamille 37,5g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "37,50g (1 kg = 62,67 €)",
+      "imageUrl": "https://img.rewe-static.de/6818137/6726990_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Sanfte Kamille 30g, 20 Beutel",
+      "price": "",
+      "unit": "30g (1 kg = 49,67 €)",
+      "imageUrl": "https://img.rewe-static.de/3652009/2278210_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Vollmundige Hagebutte 70g, 20 Beutel",
+      "price": "",
+      "unit": "70g (1 kg = 21,29 €)",
+      "imageUrl": "https://img.rewe-static.de/3651053/677480_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Sanfter Kamille-Fenchel 40g, 20 Beutel",
+      "price": "",
+      "unit": "40g (1 kg = 37,25 €)",
+      "imageUrl": "https://img.rewe-static.de/0973191/22140190_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Früchte-Mischung 75g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "75g (1 kg = 31,33 €)",
+      "imageUrl": "https://img.rewe-static.de/6818218/3037690_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Fruchtige Waldbeere 50g, 20 Beutel",
+      "price": "",
+      "unit": "50g (1 kg = 29,80 €)",
+      "imageUrl": "https://img.rewe-static.de/0809672/9630490_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Kräutertee 35g, 20 Beutel",
+      "price": "0,95 €",
+      "unit": "35g (1 kg = 27,14 €)",
+      "imageUrl": "https://img.rewe-static.de/8109111/29749173_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Yogi Tea Bio Rote Beeren Vanille 17 Teebeutel 34g",
+      "price": "2,75 €",
+      "unit": "34g (1 kg = 80,88 €)",
+      "imageUrl": "https://img.rewe-static.de/9108337/46199929_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Heiße Liebe 60g",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/9030580/40986627_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Früchtetee Sweet Kiss 60g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/8948328/41021964_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Minze 45g, 20 Beutel",
+      "price": "",
+      "unit": "45g (1 kg = 33,11 €)",
+      "imageUrl": "https://img.rewe-static.de/3481190/6752540_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Marokkanische Minze 36g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "36g (1 kg = 63,61 €)",
+      "imageUrl": "https://img.rewe-static.de/0186859/2200600_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Karibische Mango 45g, 20 Beutel",
+      "price": "2,29 €",
+      "unit": "45g (1 kg = 50,89 €)",
+      "imageUrl": "https://img.rewe-static.de/8622163/33508529_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Ostfriesen Teefix 75g, 50 Beutel",
+      "price": "3,29 €",
+      "unit": "75g (1 kg = 43,87 €)",
+      "imageUrl": "https://img.rewe-static.de/5619777/7477280_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Wohltuender Salbei 30g, 20 Beutel",
+      "price": "",
+      "unit": "30g (1 kg = 49,67 €)",
+      "imageUrl": "https://img.rewe-static.de/0401700/9525500_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Rooibos Sahne-Karamell 35g, 20 Beutel",
+      "price": "2,19 €",
+      "unit": "35g (1 kg = 62,57 €)",
+      "imageUrl": "https://img.rewe-static.de/2454367/23878991_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Ingwer Kurkuma 32,4g, 18 Beutel",
+      "price": "",
+      "unit": "32,40g (1 kg = 45,99 €)",
+      "imageUrl": "https://img.rewe-static.de/7088301/27058932_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Bio Kräutertee Innere Ruhe 18 Teebeutel",
+      "price": "2,89 €",
+      "unit": "36g (1 kg = 80,28 €)",
+      "imageUrl": "https://img.rewe-static.de/9963879/45532276_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Feine Welt Bio Früchtetee Spanische Orange 30g, 15 Beutel",
+      "price": "1,99 €",
+      "unit": "30g (1 kg = 66,33 €)",
+      "imageUrl": "https://img.rewe-static.de/8968432/40635940_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Feine Welt Bio Kräutertee Brasilianische Mate 30g, 15 Beutel",
+      "price": "1,99 €",
+      "unit": "30g (1 kg = 66,33 €)",
+      "imageUrl": "https://img.rewe-static.de/9049170/40635949_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Melissen-Mischung 50g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "50g (1 kg = 47 €)",
+      "imageUrl": "https://img.rewe-static.de/6818110/7478970_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Strawberry Cheesecake 40,5g, 18 Beutel",
+      "price": "2,29 €",
+      "unit": "40,50g (1 kg = 56,54 €)",
+      "imageUrl": "https://img.rewe-static.de/2746164/25155207_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Ingwer-Zitrone 40g, 20 Beutel",
+      "price": "2,35 €",
+      "unit": "40g (1 kg = 58,75 €)",
+      "imageUrl": "https://img.rewe-static.de/7036409/35156763_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Erdbeere Orange 45g, 20 Beutel",
+      "price": "2,35 €",
+      "unit": "45g (1 kg = 52,22 €)",
+      "imageUrl": "https://img.rewe-static.de/7676469/40130258_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Gute Nacht Melatonin Lavendel-Kamille 32g, 16 Beutel",
+      "price": "2,49 €",
+      "unit": "32g (1 kg = 77,81 €)",
+      "imageUrl": "https://img.rewe-static.de/8984312/41744183_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Messmer Miami Vibes Himbeere & Lemon 50g, 20 Beutel",
+      "price": "2,49 €",
+      "unit": "50g (1 kg = 49,80 €)",
+      "imageUrl": "https://img.rewe-static.de/8493541/32389364_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Immunsystem Apfel-Zitrone-Ingwer 32g, 16 Beutel",
+      "price": "2,49 €",
+      "unit": "32g (1 kg = 77,81 €)",
+      "imageUrl": "https://img.rewe-static.de/7647027/42700503_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Meßmer Milde Hagebutten-Mischung 75g, 25 Beutel",
+      "price": "2,35 €",
+      "unit": "75g (1 kg = 31,33 €)",
+      "imageUrl": "https://img.rewe-static.de/6818277/16001230_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teehaus 9 Kräuter 60g, 40 Beutel",
+      "price": "1,99 €",
+      "unit": "60g (1 kg = 33,17 €)",
+      "imageUrl": "https://img.rewe-static.de/3557707/3043480_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teehaus Brombeer Himbeer 90g, 40 Beutel",
+      "price": "1,99 €",
+      "unit": "90g (1 kg = 22,11 €)",
+      "imageUrl": "https://img.rewe-static.de/9360662/4777240_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Süßer Bratapfel 50g, 20 Beutel",
+      "price": "2,49 €",
+      "unit": "50g (1 kg = 49,80 €)",
+      "imageUrl": "https://img.rewe-static.de/2803646/25609886_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Berliner Kaffeerösterei Finest English Breakfast Tea №011 Bio 100g",
+      "price": "6,49 €",
+      "unit": "100g (1 kg = 64,90 €)",
+      "imageUrl": "https://img.rewe-static.de/8268993/41612500_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "David Rio Elephant Vanilla Chai 398g",
+      "price": "12,99 €",
+      "unit": "398g (1 kg = 32,64 €)",
+      "imageUrl": "https://img.rewe-static.de/2704936/39766457_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "GEPA Bio Ceylon Schwarztee 40g",
+      "price": "3,49 €",
+      "unit": "40g (1 kg = 87,25 €)",
+      "imageUrl": "https://img.rewe-static.de/8316288/31502844_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "GEPA Bio Darjeeling Grüntee 100g",
+      "price": "6,99 €",
+      "unit": "100g (1 kg = 69,90 €)",
+      "imageUrl": "https://img.rewe-static.de/8071872/31502831_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gepa Bio Earl Grey Schwarztee 34g, 20 Beutel",
+      "price": "3,49 €",
+      "unit": "34g (1 kg = 102,65 €)",
+      "imageUrl": "https://img.rewe-static.de/8316499/31210148_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gepa Bio Grüntee Darjeeling 40g, 20 Beutel",
+      "price": "3,49 €",
+      "unit": "40g",
+      "imageUrl": "https://img.rewe-static.de/8315678/46344553_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gepa Bio Grüntee Mischung 40g, 20 Beutel",
+      "price": "2,99 €",
+      "unit": "40g",
+      "imageUrl": "https://img.rewe-static.de/8072871/41808341_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gepa Bio Pfefferminztee 34g, 20x1,7g",
+      "price": "2,99 €",
+      "unit": "34g (1 kg = 87,94 €)",
+      "imageUrl": "https://img.rewe-static.de/8317565/31502843_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gepa Bio Schwarztee Assam 100g",
+      "price": "6,99 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/8318304/46048187_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Giest & Co Früchtetee Bio Ägyptische Minze & Oasenfrüchte 100g",
+      "price": "5,49 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/8265842/48330486_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Schlürf Frau Lühr's Bio Jasmin Tea 35g 20 Beutel",
+      "price": "3,19 €",
+      "unit": "35g (1 kg = 91,14 €)",
+      "imageUrl": "https://img.rewe-static.de/3478956/41147021_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Schlürf Frau Ricklefs Bio Rooibos Tea 40g 20 Beutel",
+      "price": "3,19 €",
+      "unit": "40g (1 kg = 79,75 €)",
+      "imageUrl": "https://img.rewe-static.de/3443346/41147018_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Schlürf Herr Oltmann's Bio Peppermint Tea 40g 20 Beutel",
+      "price": "3,19 €",
+      "unit": "40g (1 kg = 79,75 €)",
+      "imageUrl": "https://img.rewe-static.de/3443398/41147019_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "David Rio Tiger Spice chai 398g",
+      "price": "12,99 €",
+      "unit": "398g (1 kg = 32,64 €)",
+      "imageUrl": "https://img.rewe-static.de/2781842/29150957_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Giest & Co. Früchtetee Waldspaziergang 100g",
+      "price": "5,99 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/8508075/43644733_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Berliner Kaffeerösterei Uffwachtee Kräuter 50g",
+      "price": "3,99 €",
+      "unit": "50g (1 kg = 79,80 €)",
+      "imageUrl": "https://img.rewe-static.de/8269013/38487733_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bad Heilbrunner Arzneitee Nieren- und Blasentee 8 Stück",
+      "price": "1,29 €",
+      "unit": "8 Stück",
+      "imageUrl": "https://img.rewe-static.de/8639834/34125957_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Teekanne Prinzessin Lillifee 55g, 20 Beutel",
+      "price": "2,49 €",
+      "unit": "55g (1 kg = 45,27 €)",
+      "imageUrl": "https://img.rewe-static.de/1298928/21844573_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Yogi Tea Bio Tee Classic 37,4g 17 Beutel",
+      "price": "2,75 €",
+      "unit": "37,40g (1 kg = 73,53 €)",
+      "imageUrl": "https://img.rewe-static.de/1383241/20285065_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Zitronentee löslich 400g",
+      "price": "1,99 €",
+      "unit": "400g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0713079/26680375_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Kamillentee 37,5g, 25 Beutel",
+      "price": "0,89 €",
+      "unit": "37,50g (1 kg = 23,73 €)",
+      "imageUrl": "https://img.rewe-static.de/0546026/2972440_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Waldbeere Tee 62,5g, 25 Beutel",
+      "price": "1,39 €",
+      "unit": "62,50g (1 kg = 22,24 €)",
+      "imageUrl": "https://img.rewe-static.de/8605199/33722058_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Türkischer Apfel Tee 62,5g 25 Beutel",
+      "price": "1,69 €",
+      "unit": "62,50g (1 kg = 27,04 €)",
+      "imageUrl": "https://img.rewe-static.de/8972047/40683563_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Earl Grey Tee 70g, 40 Beutel",
+      "price": "0,99 €",
+      "unit": "70g (1 kg = 14,14 €)",
+      "imageUrl": "https://img.rewe-static.de/2725612/25564060_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Fenchel Anis Kümmel Tee 50g, 25 Beutel",
+      "price": "1,19 €",
+      "unit": "50g (1 kg = 23,80 €)",
+      "imageUrl": "https://img.rewe-static.de/8606032/33722066_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Pfefferminztee 56g, 25 Beutel",
+      "price": "0,89 €",
+      "unit": "56,25g (1 kg = 15,82 €)",
+      "imageUrl": "https://img.rewe-static.de/0546040/3871060_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "cola": [
+    {
+      "name": "Coca-Cola Zero Sugar 12x0,5l",
+      "price": "15,48 €",
+      "unit": "12x0,50l (1 l = 2,58 €)\nzzgl. 3,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2833770/25365898_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 12x0,5l",
+      "price": "15,48 €",
+      "unit": "12x0,50l (1 l = 2,58 €)\nzzgl. 3,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2833588/25366075_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light 12x0,5l",
+      "price": "15,48 €",
+      "unit": "12x0,50l (1 l = 2,58 €)\nzzgl. 3,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2833777/25365901_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 0,33l",
+      "price": "0,99 €",
+      "unit": "0,33l (1 l = 3 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6359221/887830_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Cherry 0,33l",
+      "price": "0,99 €",
+      "unit": "0,33l (1 l = 3 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0038624/35289088_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 0,33l",
+      "price": "0,99 €",
+      "unit": "0,33l (1 l = 3 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0045656/20711572_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 6x0,33l",
+      "price": "4,99 €",
+      "unit": "6x0,33l (1 l = 2,52 €)\nzzgl. 0,90€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8801710/39281789_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero 6x0,33l",
+      "price": "4,99 €",
+      "unit": "6x0,33l (1 l = 2,52 €)\nzzgl. 0,90€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/7800307/39282451_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6730574/25631786_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6731201/2325040_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 4x0,5l",
+      "price": "4,76 €",
+      "unit": "4x0,50l (1 l = 2,38 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/3025194/26016196_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 2l",
+      "price": "2,19 €",
+      "unit": "2l (1 l = 1,10 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6729673/5904320_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 6x0,33l",
+      "price": "4,29 €",
+      "unit": "6x0,33l (1 l = 2,17 €)\nzzgl. 1,50€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0436772/22381388_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 0,85l",
+      "price": "1,39 €",
+      "unit": "0,85l (1 l = 1,64 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/9875133/49724505_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 0,33l",
+      "price": "0,72 €",
+      "unit": "0,33l (1 l = 2,18 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0436785/22569103_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 0,33l Glasflasche",
+      "price": "0,89 €",
+      "unit": "0,33l (1 l = 2,70 €)\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8012695/26289119_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 1l",
+      "price": "1,79 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8214102/30826451_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8002630/6079040_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero 6x0,33l",
+      "price": "4,29 €",
+      "unit": "6x0,33l (1 l = 2,17 €)\nzzgl. 1,50€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2503623/24851090_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero 0,33l",
+      "price": "0,72 €",
+      "unit": "0,33l (1 l = 2,18 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2500225/25887235_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Vanilla 0,33l",
+      "price": "0,99 €",
+      "unit": "0,33l (1 l = 3 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/9898063/48849238_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Light 0,33l",
+      "price": "0,99 €",
+      "unit": "0,33l (1 l = 3 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8164702/46906825_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola 0,5l",
+      "price": "",
+      "unit": "0,50l (1 l = 1,98 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0734457/24847371_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Vanilla 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/7923490/20709673_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Cherry 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/7007329/904570_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 0,33l",
+      "price": "0,89 €",
+      "unit": "0,33l (1 l = 2,70 €)\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/1185743/26274645_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0054164/26127982_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero koffeinfrei 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2158871/25563499_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero koffeinfrei 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/1488518/27561906_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 2l",
+      "price": "2,19 €",
+      "unit": "2l (1 l = 1,10 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0049831/25956564_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0054163/26127985_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6730566/7484200_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 0,5l",
+      "price": "1,29 €",
+      "unit": "0,50l (1 l = 2,58 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0078429/24847135_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 0,85l",
+      "price": "1,39 €",
+      "unit": "0,85l (1 l = 1,64 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/9891393/49724585_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6731155/2524110_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Cherry ohne Zucker 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8270580/31573348_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Vanilla ohne Zucker 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8105975/30156857_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Cherry ohne Zucker 4x1,5l",
+      "price": "",
+      "unit": "4x1,50l (1 l = 0,79 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8259881/32343780_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 4x0,5l",
+      "price": "5,16 €",
+      "unit": "4x0,50l (1 l = 2,58 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2797367/26010196_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 4x0,5l",
+      "price": "4,76 €",
+      "unit": "4x0,50l (1 l = 2,38 €)\nzzgl. 1,00€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/2797358/27415098_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 0,33l",
+      "price": "0,89 €",
+      "unit": "0,33l (1 l = 2,70 €)\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8057486/26274681_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Lemon 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8741710/34885986_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0045617/7444230_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 6x1l",
+      "price": "9,99 €",
+      "unit": "6x1l (1 l = 1,67 €)\nzzgl. 2,40€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8214013/28971594_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 1l",
+      "price": "1,79 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8134809/30507448_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 6x2l",
+      "price": "13,14 €",
+      "unit": "6x2l (1 l = 1,10 €)\nzzgl. 1,50€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0049838/21202362_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/0218457/7445760_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola Zero koffeinfrei 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/1913214/21135214_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 0,5l",
+      "price": "1,29 €",
+      "unit": "0,50l (1 l = 2,58 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/1361654/25137881_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8002673/6079070_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca Cola Vanilla Zero Sugar 1,5l",
+      "price": "",
+      "unit": "1,50l (1 l = 0,79 €)\nzzgl. 0,25€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8259774/30819947_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Coca-Cola light taste koffeinfrei 1l",
+      "price": "1,39 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/8029180/7446830_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "https://shop.rewe.de/productList?objectsPerPage=80&search=kartoffelchips": [
+    {
+      "name": "REWE Feine Welt Kartoffelchips mit Trüffelgeschmack 100g",
+      "price": "1,69 €",
+      "unit": "100g (1 kg = 16,90 €)",
+      "imageUrl": "https://img.rewe-static.de/8000504/31147909_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Bugles Paprika Style 75g",
+      "price": "1,99 €",
+      "unit": "75g (1 kg = 26,53 €)",
+      "imageUrl": "https://img.rewe-static.de/7535980/42618384_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Bugles Nacho Cheese 75g",
+      "price": "1,99 €",
+      "unit": "75g (1 kg = 26,53 €)",
+      "imageUrl": "https://img.rewe-static.de/7599089/42866157_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Paprika 150g",
+      "price": "",
+      "unit": "150g (1 kg = 7,40 €)",
+      "imageUrl": "https://img.rewe-static.de/7741099/36873912_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Chips aus dem Ofen Geröstete Paprika 100g",
+      "price": "1,99 €",
+      "unit": "100g (1 kg = 19,90 €)",
+      "imageUrl": "https://img.rewe-static.de/8680999/34570432_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Pom-Bär Original 30g",
+      "price": "0,89 €",
+      "unit": "30g (1 kg = 29,67 €)",
+      "imageUrl": "https://img.rewe-static.de/7700506/40870439_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Takis Fuego Extreme 100g",
+      "price": "2,99 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/9019559/41571208_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Takis Volcano Hot Piquant 100g",
+      "price": "2,99 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/7626271/41571206_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Pom-Bär Ketchup Style 75g",
+      "price": "1,79 €",
+      "unit": "75g (1 kg = 23,87 €)",
+      "imageUrl": "https://img.rewe-static.de/7700363/39641275_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Pom-Bär Original 75g",
+      "price": "1,79 €",
+      "unit": "75g (1 kg = 23,87 €)",
+      "imageUrl": "https://img.rewe-static.de/8904051/39416847_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch Peperoni 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/8823163/37132408_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Limited Edition Burrito Style 130g",
+      "price": "",
+      "unit": "130g (1 kg = 8,54 €)",
+      "imageUrl": "https://img.rewe-static.de/9143540/42877267_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pringles Hot & Spicy Chips 165g",
+      "price": "2,49 €",
+      "unit": "165g (1 kg = 15,09 €)",
+      "imageUrl": "https://img.rewe-static.de/3552437/42866552_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Beste Wahl Kesselchips Salt & Vinegar 150g",
+      "price": "1,49 €",
+      "unit": "150g (1 kg = 9,93 €)",
+      "imageUrl": "https://img.rewe-static.de/8733873/36260880_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch Sour Cream 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7752891/37167359_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pringles Sour Cream & Onion Chips 165g",
+      "price": "2,49 €",
+      "unit": "165g (1 kg = 15,09 €)",
+      "imageUrl": "https://img.rewe-static.de/3552434/42866554_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Layenberger LowCarb.one High Protein Chips Paprika 75g",
+      "price": "2,99 €",
+      "unit": "75g (1 kg = 39,87 €)",
+      "imageUrl": "https://img.rewe-static.de/8195915/30061469_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Layenberger LowCarb.one High Protein Chips Sour Cream & Onion 75g",
+      "price": "2,99 €",
+      "unit": "75g (1 kg = 39,87 €)",
+      "imageUrl": "https://img.rewe-static.de/8215662/30277617_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch ungarisch 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/9988845/44520791_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "HeiMart Krosse Kerle Chips Salz & Pfeffer 115g",
+      "price": "2,29 €",
+      "unit": "115g (1 kg = 19,91 €)",
+      "imageUrl": "https://img.rewe-static.de/2831026/25204852_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pringles Classic Paprika Chips 165g",
+      "price": "2,49 €",
+      "unit": "165g (1 kg = 15,09 €)",
+      "imageUrl": "https://img.rewe-static.de/9069948/42866547_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch Gesalzen 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/8828704/37167624_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Beste Wahl Kesselchips Sweet Chili 150g",
+      "price": "1,49 €",
+      "unit": "150g (1 kg = 9,93 €)",
+      "imageUrl": "https://img.rewe-static.de/7705305/39251943_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Tyrrell's Sea Salt & Cider Vinegar 150g",
+      "price": "2,69 €",
+      "unit": "150g (1 kg = 17,93 €)",
+      "imageUrl": "https://img.rewe-static.de/0462924/34908496_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Kessel Chips Cross Cut RANCH Sauce Style 120g",
+      "price": "2,49 €",
+      "unit": "120g (1 kg = 20,75 €)",
+      "imageUrl": "https://img.rewe-static.de/8040487/30178789_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Paprika & Roasted Onion 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/7651730/40249143_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pringles Original Chips 165g",
+      "price": "2,49 €",
+      "unit": "165g (1 kg = 15,09 €)",
+      "imageUrl": "https://img.rewe-static.de/3552433/42724306_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Chips Red Paprika 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/8940323/39374800_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Kessel Chips Salt & Vinegar 120g",
+      "price": "2,49 €",
+      "unit": "120g (1 kg = 20,75 €)",
+      "imageUrl": "https://img.rewe-static.de/1326613/17845520_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pom-Bär Crizzlies Sour Cream Style 150g",
+      "price": "2,79 €",
+      "unit": "150g (1 kg = 18,60 €)",
+      "imageUrl": "https://img.rewe-static.de/7617520/40249904_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Riffels Naturell 150g",
+      "price": "2,49 €",
+      "unit": "150g (1 kg = 16,60 €)",
+      "imageUrl": "https://img.rewe-static.de/0137529/5498080_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch Oriental 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7752166/37008709_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Kessel Chips Sweet Chili 120g",
+      "price": "2,49 €",
+      "unit": "120g (1 kg = 20,75 €)",
+      "imageUrl": "https://img.rewe-static.de/1326594/20699414_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Kräuterbutter 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7794997/36537068_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Sea Salt & Balsamic Vinegar 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8902227/40249017_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Chips gesalzen 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7795569/35855163_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Bio Naturland Kesselchips Paprika 125g",
+      "price": "1,99 €",
+      "unit": "125g (1 kg = 15,92 €)",
+      "imageUrl": "https://img.rewe-static.de/7692953/39851044_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lay's Salt & Vinegar 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7793872/36340239_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch Chakalaka 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7753088/37167768_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Ofenchips Sour Cream 125g",
+      "price": "1,99 €",
+      "unit": "125g (1 kg = 15,92 €)",
+      "imageUrl": "https://img.rewe-static.de/7776873/36482412_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "IronMaxx Protein Chips 40 Paprika 50g",
+      "price": "2,29 €",
+      "unit": "50g (1 kg = 45,80 €)",
+      "imageUrl": "https://img.rewe-static.de/3542862/31766435_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Sea Salt 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8902529/40249117_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Tyrrell's Sweet Chilli & Red Pepper 150g",
+      "price": "2,69 €",
+      "unit": "150g (1 kg = 17,93 €)",
+      "imageUrl": "https://img.rewe-static.de/0462952/19686150_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Bio Naturland Kesselchips Meersalz 125g",
+      "price": "1,99 €",
+      "unit": "125g (1 kg = 15,92 €)",
+      "imageUrl": "https://img.rewe-static.de/8915125/39850955_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Riffels Chili & Paprika 150g",
+      "price": "2,49 €",
+      "unit": "150g (1 kg = 16,60 €)",
+      "imageUrl": "https://img.rewe-static.de/3726703/6839630_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lisa's Bio-Kesselchips Mango & Chili 115g",
+      "price": "2,49 €",
+      "unit": "115g (1 kg = 21,65 €)",
+      "imageUrl": "https://img.rewe-static.de/9863607/49414083_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Kessel Chips CrossCut Spicy BBQ Sauce 120g",
+      "price": "2,49 €",
+      "unit": "120g (1 kg = 20,75 €)",
+      "imageUrl": "https://img.rewe-static.de/9117621/44143329_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "HeiMart Krosse Kerle Chips Tomate & Paprika 115g",
+      "price": "2,29 €",
+      "unit": "115g (1 kg = 19,91 €)",
+      "imageUrl": "https://img.rewe-static.de/2831048/25203392_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Pom-Bär Crizzlies Paprika 150g",
+      "price": "2,79 €",
+      "unit": "150g (1 kg = 18,60 €)",
+      "imageUrl": "https://img.rewe-static.de/7672724/40815543_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Beste Wahl Unsere Krossen Bruschetta Geschmack 150g",
+      "price": "1,49 €",
+      "unit": "150g (1 kg = 9,93 €)",
+      "imageUrl": "https://img.rewe-static.de/7841380/35163939_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-Frisch Pom-Bär Original 120g",
+      "price": "2,69 €",
+      "unit": "120g (1 kg = 22,42 €)",
+      "imageUrl": "https://img.rewe-static.de/8906534/40803307_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chipsfrisch ungarisch 40g",
+      "price": "0,89 €",
+      "unit": "40g",
+      "imageUrl": "https://img.rewe-static.de/9989490/44411460_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Tyrrell's Lightly Sea Salted 150g",
+      "price": "2,69 €",
+      "unit": "150g (1 kg = 17,93 €)",
+      "imageUrl": "https://img.rewe-static.de/0462923/20515488_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lisa's Bio-Kesselchips Rosmarin & Meersalz 115g",
+      "price": "2,49 €",
+      "unit": "115g (1 kg = 21,65 €)",
+      "imageUrl": "https://img.rewe-static.de/9863815/48862695_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Tyrrell's Mature Cheddar & Chives 150g",
+      "price": "2,69 €",
+      "unit": "150g (1 kg = 17,93 €)",
+      "imageUrl": "https://img.rewe-static.de/0462927/22667475_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lisa's Bio-Kesselchips Meersalz 115g",
+      "price": "2,49 €",
+      "unit": "115g (1 kg = 21,65 €)",
+      "imageUrl": "https://img.rewe-static.de/9863909/48862711_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chips Cracker Paprika 90g",
+      "price": "1,89 €",
+      "unit": "90g (1 kg = 21 €)",
+      "imageUrl": "https://img.rewe-static.de/7085009/27447163_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Long Chips Mashed Potato Sour Cream & Onion 75g",
+      "price": "1,19 €",
+      "unit": "75g (1 kg = 15,87 €)",
+      "imageUrl": "https://img.rewe-static.de/8560950/43644847_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Long Chips Thai Sweet Chili Kartoffelsnack 75g",
+      "price": "1,19 €",
+      "unit": "75g (1 kg = 15,87 €)",
+      "imageUrl": "https://img.rewe-static.de/8525047/43437520_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Funny-frisch Chips Cracker Joghurt Gurke 90g",
+      "price": "1,89 €",
+      "unit": "90g (1 kg = 21 €)",
+      "imageUrl": "https://img.rewe-static.de/7840467/45579317_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Chips Sea Salt & Rosemary 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8900034/40249168_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Chips Intense Truffle & Sea Salt 100g",
+      "price": "2,99 €",
+      "unit": "100g",
+      "imageUrl": "https://img.rewe-static.de/9934699/48226096_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Chips Sweet Chilli & Sour Creme 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8899931/40438309_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Chips Thai Sweet Chili 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8901235/40249169_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Kettle Sea Honey Barbecue 130g",
+      "price": "2,29 €",
+      "unit": "130g (1 kg = 17,62 €)",
+      "imageUrl": "https://img.rewe-static.de/7701532/40249138_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lisa's Bio-Kesselchips Sauerrahm & Zwiebel 115g",
+      "price": "2,49 €",
+      "unit": "115g (1 kg = 21,65 €)",
+      "imageUrl": "https://img.rewe-static.de/9864218/49609805_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Paprika XXL 220g",
+      "price": "2,79 €",
+      "unit": "220g (1 kg = 12,68 €)",
+      "imageUrl": "https://img.rewe-static.de/9074211/44936970_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Maiswurm Mais-Snack Beef 90g",
+      "price": "1,59 €",
+      "unit": "90g (1 kg = 17,67 €)",
+      "imageUrl": "https://img.rewe-static.de/0932152/29819710_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Edel-Kessel Chipzz Sal de Mar 150g",
+      "price": "2,39 €",
+      "unit": "150g (1 kg = 15,93 €)",
+      "imageUrl": "https://img.rewe-static.de/8653726/41677980_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Rohscheiben Rosmarin 120g",
+      "price": "2,29 €",
+      "unit": "120g (1 kg = 19,08 €)",
+      "imageUrl": "https://img.rewe-static.de/3692759/32799327_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Naturals Rosmarin 95g",
+      "price": "2,19 €",
+      "unit": "95g (1 kg = 23,05 €)",
+      "imageUrl": "https://img.rewe-static.de/7237059/27877795_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Sour Cream 150g",
+      "price": "",
+      "unit": "150g (1 kg = 7,40 €)",
+      "imageUrl": "https://img.rewe-static.de/8944068/40163672_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Amica Eldorada La Tradizionale 130g",
+      "price": "3,59 €",
+      "unit": "130g (1 kg = 27,62 €)",
+      "imageUrl": "https://img.rewe-static.de/1097676/24732334_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Wow Paprika & Sour Cream 110g",
+      "price": "",
+      "unit": "110g (1 kg = 10,09 €)",
+      "imageUrl": "https://img.rewe-static.de/8153886/28470927_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Naturals Balsamico 95g",
+      "price": "2,19 €",
+      "unit": "95g (1 kg = 23,05 €)",
+      "imageUrl": "https://img.rewe-static.de/7239472/27878134_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Naturals Meersalz & Pfeffer 95g",
+      "price": "2,19 €",
+      "unit": "95g (1 kg = 23,05 €)",
+      "imageUrl": "https://img.rewe-static.de/7238546/27875814_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Cheese & Onion 150g",
+      "price": "",
+      "unit": "150g (1 kg = 7,40 €)",
+      "imageUrl": "https://img.rewe-static.de/7741105/37356616_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Amica Eldorada Olio di Oliva 130g",
+      "price": "3,59 €",
+      "unit": "130g (1 kg = 27,62 €)",
+      "imageUrl": "https://img.rewe-static.de/2344451/24732353_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Roasted Smoky Paprika 110g",
+      "price": "",
+      "unit": "110g (1 kg = 10,09 €)",
+      "imageUrl": "https://img.rewe-static.de/8919926/39283430_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "IronMaxx Protein Chips Sour Cream & Onion glutenfrei 50g",
+      "price": "2,29 €",
+      "unit": "50g (1 kg = 45,80 €)",
+      "imageUrl": "https://img.rewe-static.de/3671486/37459700_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Chio Chips Red Paprika 150g",
+      "price": "1,99 €",
+      "unit": "150g (1 kg = 13,27 €)",
+      "imageUrl": "https://img.rewe-static.de/7705130/1741150_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lorenz Crunchips Rustics just salted 110g",
+      "price": "",
+      "unit": "110g (1 kg = 10,09 €)",
+      "imageUrl": "https://img.rewe-static.de/8625734/34336803_digital-image.png?imwidth=304&impolicy=search"
+    }
+  ],
+  "https://shop.rewe.de/productList?search=alufolie": [
+    {
+      "name": "Toppits Alufolie im Karton 10m",
+      "price": "2,35 €",
+      "unit": "10m (1 m = 0,24 €)",
+      "imageUrl": "https://img.rewe-static.de/0172413/742260_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Beste Wahl Aluminiumfolie 15m",
+      "price": "2,29 €",
+      "unit": "15m",
+      "imageUrl": "https://img.rewe-static.de/8496948/32253990_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Alufolie 50m",
+      "price": "2,92 €",
+      "unit": "50m (1 m = 0,06 €)",
+      "imageUrl": "https://img.rewe-static.de/2105247/26753859_digital-image.png?imwidth=304&impolicy=search"
+    }
+  ],
+  "toilettenpapier": [
+    {
+      "name": "REWE Beste Wahl Deluxe-Toilettenpapier 5-lagig 6x129 Blatt",
+      "price": "3,79 €",
+      "unit": "",
+      "imageUrl": "https://img.rewe-static.de/1387339/23849552_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Ultra Soft Toilettenpapier 4-lagig 8x150 Blatt",
+      "price": "4,89 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/7857477/34127036_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hakle Klassisch Weiß Toilettenpapier 3-lagig 8x150 Blatt",
+      "price": "3,79 €",
+      "unit": "",
+      "imageUrl": "https://img.rewe-static.de/1214080/1149440_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Danke Toilettenpapier 3-lagig 8x150 Blatt",
+      "price": "3,69 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/9004340/39280567_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Goldeimer Toilettenpapier 3-lagig 8x150 Blatt",
+      "price": "3,39 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/7780234/37167772_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa bewährt Toilettenpapier 3-lagig 8x150 Blatt",
+      "price": "3,99 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/7849649/36469207_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hakle Traumweich Toilettenpapier 4-lagig 8x130 Blatt",
+      "price": "3,99 €",
+      "unit": "8x130 Stück",
+      "imageUrl": "https://img.rewe-static.de/2710021/907560_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Papermarkers Lilla Toilettenpapier 4-lagig 8x130 Blatt",
+      "price": "3,49 €",
+      "unit": "8x130 Stück",
+      "imageUrl": "https://img.rewe-static.de/9999627/46157994_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "natürlich ECO Recycling Toilettenpapier 4-lagig 8x160Blatt",
+      "price": "3,79 €",
+      "unit": "8x160 Stück",
+      "imageUrl": "https://img.rewe-static.de/7832969/37337192_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Smart Toilettenpapier ohne Hülse 4x300 Blatt",
+      "price": "3,99 €",
+      "unit": "4x300 Stück",
+      "imageUrl": "https://img.rewe-static.de/7218314/27716491_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Premium Toilettenpapier 5-lagig 6x110 Blatt",
+      "price": "4,49 €",
+      "unit": "6x110 Stück",
+      "imageUrl": "https://img.rewe-static.de/8921145/39280097_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Ultra Clean Toilettenpapier 4-lagig 8x135 Blatt",
+      "price": "4,89 €",
+      "unit": "8x135 Stück",
+      "imageUrl": "https://img.rewe-static.de/7779851/36469201_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "natürlich ECO Recycling Toilettenpapier 3-lagig 6x250 Blatt",
+      "price": "2,99 €",
+      "unit": "6x250 Stück",
+      "imageUrl": "https://img.rewe-static.de/8846761/38961136_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Bewährt Toilettenpapier Kamille 3-lagig 8x150 Blatt",
+      "price": "3,99 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/8670253/36927962_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Ultra Smart Toilettenpapier 4-lagig 4x280 Blatt",
+      "price": "4,89 €",
+      "unit": "4x280 Stück",
+      "imageUrl": "https://img.rewe-static.de/8630726/34688792_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Toilettenpapier Ultra Soft 4-lagig 8x150 Blatt",
+      "price": "4,89 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/8658097/35448391_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hakle Sanft & Sicher Toilettenpapier 4-lagig 8x130 Blatt",
+      "price": "3,99 €",
+      "unit": "",
+      "imageUrl": "https://img.rewe-static.de/3793281/23245864_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Limited Edition Toilettenpapier 8x180 Blatt",
+      "price": "2,99 €",
+      "unit": "8x180 Stück",
+      "imageUrl": "https://img.rewe-static.de/8937482/40315214_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa bewährt Toilettenpapier Lufterfrischer 3-lagig 8x150 Blatt",
+      "price": "3,99 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/8932888/39451628_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Zewa Ultra Senses Toilettenpapier Mandelblüte 4-lagig 8x135 Blatt",
+      "price": "4,89 €",
+      "unit": "8x135 Stück",
+      "imageUrl": "https://img.rewe-static.de/8783423/36543825_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hakle Das Toilettenpapier Jasmin mit Duft & Dekor 8x150",
+      "price": "3,79 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/9958832/44766533_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Regina Kamillenpapier 3-lagig 8x150 Blatt",
+      "price": "3,99 €",
+      "unit": "8x150 Stück",
+      "imageUrl": "https://img.rewe-static.de/5569672/1369860_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hakle Traumweich Lady 4-lagig 2x130 Blatt",
+      "price": "1,79 €",
+      "unit": "2x130 Stück",
+      "imageUrl": "https://img.rewe-static.de/7703868/39362799_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Toilettenpapier 3-lagig 20x220 Blatt",
+      "price": "7,55 €",
+      "unit": "20x220 Stück",
+      "imageUrl": "https://img.rewe-static.de/9102651/45584211_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Komfort Toilettenpapier 3-lagig 10x220 Blatt",
+      "price": "4,15 €",
+      "unit": "10x220 Stück",
+      "imageUrl": "https://img.rewe-static.de/7642029/42679345_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Komfort Toilettenpapier 3-lagig 4x220 Blatt",
+      "price": "1,99 €",
+      "unit": "4x220 Stück",
+      "imageUrl": "https://img.rewe-static.de/7644785/43242684_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Toilettenpapier Super-Soft 4-lagig 20x200 Blatt",
+      "price": "9,55 €",
+      "unit": "20x200 Stück",
+      "imageUrl": "https://img.rewe-static.de/9104358/45584215_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Super-Soft Toilettenpapier 4-lagig 10x200 Blatt",
+      "price": "5,15 €",
+      "unit": "10x200 Stück",
+      "imageUrl": "https://img.rewe-static.de/8994273/42679328_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Recycling Toilettenpapier 3 lagig 8x220 Blatt",
+      "price": "2,69 €",
+      "unit": "8x220 Stück",
+      "imageUrl": "https://img.rewe-static.de/9039033/42615739_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Super-Soft Toilettenpapier 4-lagig 4x200 Blatt",
+      "price": "2,49 €",
+      "unit": "4x200 Stück",
+      "imageUrl": "https://img.rewe-static.de/7642004/43153055_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "https://shop.rewe.de/productList?objectsPerPage=80&search=waschmittel": [
+    {
+      "name": "Persil Vollwaschmittel Universal Kraft-Gel 900ml, 20WL",
+      "price": "6,35 €",
+      "unit": "900ml (1 l = 7,06 €)",
+      "imageUrl": "https://img.rewe-static.de/8914463/39280053_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Colorwaschmittel Flüssig Blütenrausch Renew 1,35l 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/9054689/42558663_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Vollwaschmittel Flüssig Frische-Kick 990ml 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/9049616/42558775_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "REWE Beste Wahl Hygienespüler 1,5l 18WL",
+      "price": "1,45 €",
+      "unit": "1500ml (1 l = 0,97 €)",
+      "imageUrl": "https://img.rewe-static.de/8089929/29734733_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Coral Colorwaschmittel Flüssig Optimal Color 1,15l 23WL",
+      "price": "4,99 €",
+      "unit": "1,15l (1 l = 4,34 €)",
+      "imageUrl": "https://img.rewe-static.de/8876588/38485184_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Vollwaschmittel Aktiv-Gel 990ml, 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8907195/38626507_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Vollwaschmittel Power Caps Frische Kick 215g 18WL",
+      "price": "4,49 €",
+      "unit": "216g (1 kg = 20,79 €)",
+      "imageUrl": "https://img.rewe-static.de/9046724/42558785_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Feinwaschmittel Flüssig Renew Wolle & Feines 1,35l, 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/7605569/42394644_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Color Kraft-Gel 4,5l, 100WL",
+      "price": "23,99 €",
+      "unit": "4,50l (1 l = 5,33 €)",
+      "imageUrl": "https://img.rewe-static.de/8905951/39595293_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Universalwaschmittel 4in1 Discs 272g, 16WL",
+      "price": "6,35 €",
+      "unit": "272g (1 kg = 23,35 €)",
+      "imageUrl": "https://img.rewe-static.de/9004421/41239390_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Black Waschmittel Flüssig Renew 1,35l, 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/7603087/42394700_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Colorwaschmittel Flüssig 900ml 20WL",
+      "price": "",
+      "unit": "900ml (1 l = 5,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8158740/47933673_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Colorwaschmittel Color Gel 990ml, 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8905698/38626505_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "natürlich ECO Colorwaschmittel Flüssig 1l 30WL",
+      "price": "4,79 €",
+      "unit": "1,50l (1 l = 3,19 €)",
+      "imageUrl": "https://img.rewe-static.de/7811696/37511415_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Sportwaschmittel Flüssig Renew 1,35l 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/9056894/42558801_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Color Kraft-Gel 900ml, 20WL",
+      "price": "6,35 €",
+      "unit": "900ml (1 l = 7,06 €)",
+      "imageUrl": "https://img.rewe-static.de/8986220/41365493_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Color Kraft-Gel 2,25l, 50WL",
+      "price": "11,99 €",
+      "unit": "2,25l (1 l = 5,33 €)",
+      "imageUrl": "https://img.rewe-static.de/9000980/40797550_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Color Kraft-Gel 3,6l, 80WL",
+      "price": "18,99 €",
+      "unit": "3,60l (1 l = 5,28 €)",
+      "imageUrl": "https://img.rewe-static.de/9000520/38895657_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Universal Kraft-Gel 2,25l, 50WL",
+      "price": "11,99 €",
+      "unit": "2,25l (1 l = 5,33 €)",
+      "imageUrl": "https://img.rewe-static.de/8916883/40873613_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Colorwaschmittel Flüssig Color+ 3,60l 80WL",
+      "price": "18,49 €",
+      "unit": "3,60l (1 l = 5,14 €)",
+      "imageUrl": "https://img.rewe-static.de/9902284/48185958_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Colorwaschmittel Flüssig Renew 1,35l 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/9057079/42558736_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Black Waschmittel Flüssig Renew Blütenmeer 1,35l 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/9053451/43367999_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Frosch Universal Waschmittel Flüssig 1,5l 25WL",
+      "price": "4,99 €",
+      "unit": "1500ml (1 l = 3,33 €)",
+      "imageUrl": "https://img.rewe-static.de/9842516/49507830_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Colorwaschmittel Flüssig Blütentraum 900ml 20WL",
+      "price": "5,49 €",
+      "unit": "900ml (1 l = 6,10 €)",
+      "imageUrl": "https://img.rewe-static.de/8158470/47982147_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Weißer Riese Colorwaschmittel Gel 990ml, 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8909557/40067703_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Colorwaschmittel Flüssig Blütenfrische 990ml 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/7608909/43395783_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Colorwaschmittel Flüssig Blütentraum 2,25l 50WL",
+      "price": "10,99 €",
+      "unit": "2,25l",
+      "imageUrl": "https://img.rewe-static.de/9897589/49040938_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel 4in1 Discs 1,02kg 60WL",
+      "price": "18,99 €",
+      "unit": "1,02kg (1 kg = 18,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8993411/43522086_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel 4in1-Discs 272g, 16WL",
+      "price": "6,35 €",
+      "unit": "272g (1 kg = 23,35 €)",
+      "imageUrl": "https://img.rewe-static.de/8989911/42389506_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Universal Kraft-Gel 3,6l, 80WL",
+      "price": "18,99 €",
+      "unit": "3,60l (1 l = 5,28 €)",
+      "imageUrl": "https://img.rewe-static.de/8917419/39281775_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Colorwaschmittel Power Caps 216g, 18WL",
+      "price": "4,49 €",
+      "unit": "216g (1 kg = 20,79 €)",
+      "imageUrl": "https://img.rewe-static.de/8904688/38802581_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Perwoll Renew Colorwaschmittel für Helles 1,35l 27WL",
+      "price": "6,75 €",
+      "unit": "1,35l (1 l = 5 €)",
+      "imageUrl": "https://img.rewe-static.de/9897404/48849223_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Universal 4in1-Discs 1,02kg 60WL",
+      "price": "18,99 €",
+      "unit": "1,02kg (1 kg = 18,62 €)",
+      "imageUrl": "https://img.rewe-static.de/8996009/40955793_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Colorwaschmittel All-in-1 Pods 298,5g 15WL",
+      "price": "",
+      "unit": "298,50g (1 kg = 16,72 €)",
+      "imageUrl": "https://img.rewe-static.de/9894544/47933862_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Colorwaschmittel All-in-1 Pods Color+ 756,2g 38WL",
+      "price": "11,99 €",
+      "unit": "756,20g (1 kg = 15,86 €)",
+      "imageUrl": "https://img.rewe-static.de/9883740/48614407_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Colorwaschmittel All-in-1 Pods Blütentraum 294g 15WL",
+      "price": "5,49 €",
+      "unit": "294g (1 kg = 18,67 €)",
+      "imageUrl": "https://img.rewe-static.de/8170582/48614149_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Sensitive Gel Aloe Vera & Natürliche Seife 900ml, 20WL",
+      "price": "6,35 €",
+      "unit": "900ml (1 l = 7,06 €)",
+      "imageUrl": "https://img.rewe-static.de/7642770/39281681_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Megaperls 1,04kg, 16WL",
+      "price": "6,35 €",
+      "unit": "1,04kg (1 kg = 6,11 €)",
+      "imageUrl": "https://img.rewe-static.de/8993618/41239586_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Colorwaschmittel Megaperls 1,14kg, 19WL",
+      "price": "4,49 €",
+      "unit": "1,14kg (1 kg = 3,94 €)",
+      "imageUrl": "https://img.rewe-static.de/8916132/39278765_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Megaperls 1,04kg, 16WL",
+      "price": "6,35 €",
+      "unit": "1,04kg (1 kg = 6,11 €)",
+      "imageUrl": "https://img.rewe-static.de/7639512/41239569_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Colorwaschmittel Pulver Color+ 990g 18WL",
+      "price": "",
+      "unit": "990g (1 kg = 5,04 €)",
+      "imageUrl": "https://img.rewe-static.de/9899991/48614188_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Colorwaschmittel Pulver 4,5kg 75WL",
+      "price": "18,99 €",
+      "unit": "4,50kg (1 kg = 4,22 €)",
+      "imageUrl": "https://img.rewe-static.de/9041918/42558761_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Universal Pulver Tiefenrein 5,4kg, 90WL",
+      "price": "23,99 €",
+      "unit": "5,40kg (1 kg = 4,44 €)",
+      "imageUrl": "https://img.rewe-static.de/7608715/42197684_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Sensitive Megaperls 1,04kg, 16WL",
+      "price": "6,35 €",
+      "unit": "1,04kg (1 kg = 6,11 €)",
+      "imageUrl": "https://img.rewe-static.de/9000919/41239427_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Persil Vollwaschmittel Universal Pulver 4,5kg 75WL",
+      "price": "18,99 €",
+      "unit": "4,50kg (1 kg = 4,22 €)",
+      "imageUrl": "https://img.rewe-static.de/9038611/42222135_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Frosch Sensitiv-Waschmittel Flüssig Aloe Vera 1,5l 25WL",
+      "price": "4,99 €",
+      "unit": "1500ml (1 l = 3,33 €)",
+      "imageUrl": "https://img.rewe-static.de/9841526/49403164_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Vollwaschmittel Flüssig Sensitiv 0.90l 20WL",
+      "price": "5,49 €",
+      "unit": "0,90l (1 l = 6,10 €)",
+      "imageUrl": "https://img.rewe-static.de/9896675/48614384_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Universalwaschmittel Flüssig 2,25l 50WL",
+      "price": "10,99 €",
+      "unit": "2,25l (1 l = 4,88 €)",
+      "imageUrl": "https://img.rewe-static.de/9893600/48614360_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Universalwaschmittel Flüssig Aprilfrisch 900ml 20WL",
+      "price": "5,49 €",
+      "unit": "0,90l (1 l = 6,10 €)",
+      "imageUrl": "https://img.rewe-static.de/9897091/48427571_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Weißer Riese Vollwaschmittel Gel 990ml, 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8914047/38802583_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Sunil Vollwaschmittel flüssig 1,32l, 20WL",
+      "price": "4,49 €",
+      "unit": "1320ml (1 l = 3,40 €)",
+      "imageUrl": "https://img.rewe-static.de/8538855/32840687_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Universalwaschmittel All-in-1 Pods 1266g 60WL",
+      "price": "18,49 €",
+      "unit": "1266g",
+      "imageUrl": "https://img.rewe-static.de/8170737/49041488_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Vollwaschmittel All-in-1 Pods Universal+ 316,5g 15WL",
+      "price": "",
+      "unit": "316,50g (1 kg = 15,77 €)",
+      "imageUrl": "https://img.rewe-static.de/8159242/48614249_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Universalwaschmittel All-in-1 Pods Frische Baumwollblüte 316,5g 15WL",
+      "price": "",
+      "unit": "316,50g (1 kg = 15,77 €)",
+      "imageUrl": "https://img.rewe-static.de/9895076/48614478_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Vollwaschmittel All-in-1 Pods Universal+ 801,8g 38WL",
+      "price": "11,99 €",
+      "unit": "801,80g (1 kg = 14,95 €)",
+      "imageUrl": "https://img.rewe-static.de/9894739/48614212_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Vollwaschmittel flüssig Sensitive 990ml, 22WL",
+      "price": "4,49 €",
+      "unit": "990ml (1 l = 4,54 €)",
+      "imageUrl": "https://img.rewe-static.de/8995430/39281697_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Universalwaschmittel Power Caps 216g, 18WL",
+      "price": "4,49 €",
+      "unit": "216g (1 kg = 20,79 €)",
+      "imageUrl": "https://img.rewe-static.de/8913339/40871404_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Hoffmanns Gardinenwaschmittel 660g",
+      "price": "3,49 €",
+      "unit": "660g (1 kg = 5,29 €)",
+      "imageUrl": "https://img.rewe-static.de/0973510/22228997_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Hoffmanns Gardinen Weiß-Spüler 500ml",
+      "price": "3,49 €",
+      "unit": "500ml (1 l = 6,98 €)",
+      "imageUrl": "https://img.rewe-static.de/5107695/6613900_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Sagrotan Wäsche-Hygienespüler Frisch 1,5L",
+      "price": "3,79 €",
+      "unit": "1,50l (1 l = 2,53 €)",
+      "imageUrl": "https://img.rewe-static.de/3285241/26915179_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Vollwaschmittel Pulver 990g 18WL",
+      "price": "",
+      "unit": "990g (1 kg = 5,04 €)",
+      "imageUrl": "https://img.rewe-static.de/9901882/48009071_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Spee Vollwaschmittel Megaperls 1,14kg, 19WL",
+      "price": "4,49 €",
+      "unit": "1,14kg (1 kg = 3,94 €)",
+      "imageUrl": "https://img.rewe-static.de/8983090/39280117_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Frosch Waschpulver Sensitiv Aloe Vera 1450g 22WL",
+      "price": "4,99 €",
+      "unit": "1450g (1 kg = 3,44 €)",
+      "imageUrl": "https://img.rewe-static.de/8749861/36085719_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Weißer Riese Vollwaschmittel Megaperls 1,14kg, 19WL",
+      "price": "4,49 €",
+      "unit": "1,14kg (1 kg = 3,94 €)",
+      "imageUrl": "https://img.rewe-static.de/8915246/40067707_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Vollwaschmittel Pulver 4,95kg 90WL",
+      "price": "21,99 €",
+      "unit": "4,95kg (1 kg = 4,44 €)",
+      "imageUrl": "https://img.rewe-static.de/9899447/47780120_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Lenor Vollwaschmittel Pulver Aprilfrisch 990g 18WL",
+      "price": "5,49 €",
+      "unit": "0,99kg (1 kg = 5,55 €)",
+      "imageUrl": "https://img.rewe-static.de/9896943/49145949_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Ariel Vollwaschmittel Pulver 3,96kg 72WL",
+      "price": "18,49 €",
+      "unit": "3,96kg",
+      "imageUrl": "https://img.rewe-static.de/9900168/49146453_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "Sunil Vollwaschmittel Pulver 2in1 mit Kuschelweich Firscheduft 3,75kg 75WL",
+      "price": "12,99 €",
+      "unit": "3750g",
+      "imageUrl": "https://img.rewe-static.de/7563994/44717439_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Colorwaschmittel flüssig 1,1l 20WL",
+      "price": "3,15 €",
+      "unit": "1,10l (1 l = 2,86 €)",
+      "imageUrl": "https://img.rewe-static.de/8182885/28292536_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Colorwaschmittel 2,02kg, 30WL",
+      "price": "4,69 €",
+      "unit": "2025kg (1 kg = 2,32 €)",
+      "imageUrl": "https://img.rewe-static.de/7175263/27269735_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Vollwaschmittel 1,1l 20WL",
+      "price": "3,15 €",
+      "unit": "1,10l (1 l = 2,86 €)",
+      "imageUrl": "https://img.rewe-static.de/8152779/28292559_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Feinwaschmittel Sensitiv 1,5l 37WL",
+      "price": "1,99 €",
+      "unit": "1,50l (1 l = 1,33 €)",
+      "imageUrl": "https://img.rewe-static.de/8631710/38785555_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Feinwaschmittel Flüssig 1,5l, 30WL",
+      "price": "2,65 €",
+      "unit": "1,50l (1 l = 1,77 €)",
+      "imageUrl": "https://img.rewe-static.de/8640400/36123832_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Vollwaschmittel Super-Kompakt 2,02kg, 30WL",
+      "price": "4,69 €",
+      "unit": "2025kg (1 kg = 2,32 €)",
+      "imageUrl": "https://img.rewe-static.de/7176034/27269948_digital-image.png?imwidth=304&impolicy=search"
+    },
+    {
+      "name": "ja! Vollwaschmittel Pulver 5,2kg 80WL",
+      "price": "10,95 €",
+      "unit": "5,20kg (1 kg = 2,11 €)",
+      "imageUrl": "https://img.rewe-static.de/7997199/31595010_digital-image.png?imwidth=304&impolicy=search"
+    }
+  ],
+  "reis": [
+    {
+      "name": "REWE Beste Wahl Basmati Reis 500g",
+      "price": "2,49 €",
+      "unit": "4x125g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8886901/38596158_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Original-Langkorn Reis im Beutel 10-Minuten 4x125g",
+      "price": "",
+      "unit": "4x125g (1 kg = 3,58 €)",
+      "imageUrl": "https://img.rewe-static.de/7390947/33380838_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Risotto-Reis 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1421084/24233250_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Naturland Basmatireis 1kg",
+      "price": "3,79 €",
+      "unit": "1kg",
+      "imageUrl": "https://img.rewe-static.de/8928743/40161859_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Express Basmati Reis 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/7873673/34249417_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Jasminreis weiß 500g",
+      "price": "1,89 €",
+      "unit": "500g (1 kg = 3,78 €)",
+      "imageUrl": "https://img.rewe-static.de/8714247/36263696_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Davert Echter Bio Basmati-Reis 500g",
+      "price": "3,99 €",
+      "unit": "500g (1 kg = 7,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8752591/14974480_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Miyako Sushi Reis 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1248270/23962482_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Mexikanisch 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/7677175/39491885_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Langkorn Reis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8938353/40366989_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Basmati Reis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/9024740/39416792_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Natur-Reis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8311632/29370037_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Risi Bisi 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8938391/39491900_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Mediterran Reis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8922362/38852794_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Basmati-Reis 500g",
+      "price": "2,99 €",
+      "unit": "500g (1 kg = 5,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1111914/37960894_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Basmati & Jasminreis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/7676917/39641231_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Expressreis Mediterran 250g",
+      "price": "2,29 €",
+      "unit": "250g (1 kg = 9,16 €)",
+      "imageUrl": "https://img.rewe-static.de/7645832/40989950_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Basmati Reis 500g",
+      "price": "2,29 €",
+      "unit": "500g (1 kg = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/8983717/41174001_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Griechisch Djuvec Reis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/7637100/39491883_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl-Express Reis Mediterran 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/7191832/27683120_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Express Reis Curry 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/8957000/38111204_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Langkorn & Wildreis 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8937564/39784401_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller´s Mühle Langkorn Reis 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7649723/43163816_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Basmati Expressreis 250g",
+      "price": "1,49 €",
+      "unit": "250g (1 kg = 5,96 €)",
+      "imageUrl": "https://img.rewe-static.de/7639373/42137122_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Express Reis Djuvec 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/7707321/38733401_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Mexikanisch scharf 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8924638/39682595_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Curryreis Indien 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8920661/39641491_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Risotto Reis 500g",
+      "price": "2,29 €",
+      "unit": "500g (1 kg = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/8986028/43100653_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Arroz Cebolla Sollana Paella Reis 1000g",
+      "price": "2,99 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/0277889/29945589_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Express Reis Mexikanische Art 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/7715995/38335294_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Basmati-Reis im Beutel 1kg",
+      "price": "5,49 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/2266728/26835382_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller´s Mühle Jasmin Reis 500g",
+      "price": "2,19 €",
+      "unit": "500g (1 kg = 4,38 €)",
+      "imageUrl": "https://img.rewe-static.de/8983022/43242715_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Basmati- & Thai-Reis 500g",
+      "price": "2,99 €",
+      "unit": "500g (1 kg = 5,98 €)",
+      "imageUrl": "https://img.rewe-static.de/3769119/2177440_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Natur-Reis im Beutel 10 Minuten 4x125g",
+      "price": "",
+      "unit": "4x125g (1 kg = 3,58 €)",
+      "imageUrl": "https://img.rewe-static.de/5471214/1855970_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Italienisch mit Mascarpone 220g",
+      "price": "2,29 €",
+      "unit": "220g (1 kg = 10,41 €)",
+      "imageUrl": "https://img.rewe-static.de/8940443/39784403_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Spitzen-Langkorn-Reis im Kochbeutel 1kg",
+      "price": "4,49 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/5771404/3927720_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Sushi Reis 500g",
+      "price": "1,79 €",
+      "unit": "500g (1 kg = 3,58 €)",
+      "imageUrl": "https://img.rewe-static.de/9084014/45313168_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Basmati Reis im Kochbeutel 1kg",
+      "price": "4,49 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/7700649/39124520_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Ben's Original Express Risotto Tomate & italienische Kräuter 250g",
+      "price": "2,49 €",
+      "unit": "250g (1 kg = 9,96 €)",
+      "imageUrl": "https://img.rewe-static.de/1446060/20685274_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener Parboiled-Reis 4x125g",
+      "price": "2,05 €",
+      "unit": "4x125g (1 kg = 4,10 €)",
+      "imageUrl": "https://img.rewe-static.de/2359367/3142030_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener Langkorn-Reis 4x125g",
+      "price": "1,79 €",
+      "unit": "4x125g (1 kg = 3,58 €)",
+      "imageUrl": "https://img.rewe-static.de/9240853/2161440_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Reis-fit Basmati-Reis 4x125g",
+      "price": "2,99 €",
+      "unit": "4x125g (1 kg = 5,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0590649/7456320_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Reis-fit Spitzen-Langkornreis 4x125g",
+      "price": "1,99 €",
+      "unit": "4x125g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/0589683/1185970_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener KuKo-Reis 4x62,5g",
+      "price": "2,19 €",
+      "unit": "4x62,50g (1 kg = 8,76 €)",
+      "imageUrl": "https://img.rewe-static.de/6757715/3715570_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Risotto- & Paella-Reis 500g",
+      "price": "2,29 €",
+      "unit": "500g (1 kg = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/5145384/2179460_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Spitzen-Langkorn-Reis 500g",
+      "price": "1,69 €",
+      "unit": "500g (1 kg = 3,38 €)",
+      "imageUrl": "https://img.rewe-static.de/5272220/22002986_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Natur-Reis 1kg",
+      "price": "2,99 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/5272319/3311040_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Reis-Fit Express Basmati-Reis 250g",
+      "price": "1,89 €",
+      "unit": "250g (1 kg = 7,56 €)",
+      "imageUrl": "https://img.rewe-static.de/8379872/30355654_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Spitzen-Langkorn-Reis 1kg",
+      "price": "2,99 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/0108820/23174444_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener KuKo Gemüse-Reis 150g",
+      "price": "0,99 €",
+      "unit": "150g (1 kg = 6,60 €)",
+      "imageUrl": "https://img.rewe-static.de/0022979/20965277_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Langkorn-Reis 250g",
+      "price": "1,89 €",
+      "unit": "250g (1 kg = 7,56 €)",
+      "imageUrl": "https://img.rewe-static.de/9967193/45732362_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Neuss & Wilke Basmati-Reis 1kg",
+      "price": "3,99 €",
+      "unit": "1kg",
+      "imageUrl": "https://img.rewe-static.de/3880036/22002552_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Expressreis Vollkorn & Wildreis 250g",
+      "price": "1,49 €",
+      "unit": "250g (1 kg = 5,96 €)",
+      "imageUrl": "https://img.rewe-static.de/8998378/42309785_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müllers's Mühle Bowl-Mix 250g",
+      "price": "1,89 €",
+      "unit": "250g (1 kg = 7,56 €)",
+      "imageUrl": "https://img.rewe-static.de/9968297/46915675_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Reis-Fit Express Mediterran-Reis 250g",
+      "price": "1,89 €",
+      "unit": "250g (1 kg = 7,56 €)",
+      "imageUrl": "https://img.rewe-static.de/8787416/37632675_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Naturreis Spitzen-Langkorn 1kg",
+      "price": "2,59 €",
+      "unit": "1kg",
+      "imageUrl": "https://img.rewe-static.de/8032052/31063840_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener Spitzen-Langkornreis im Kochbeutel 4x125g",
+      "price": "1,69 €",
+      "unit": "4x125g (1 kg = 3,38 €)",
+      "imageUrl": "https://img.rewe-static.de/3892689/24046990_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Basmati- & Wildreis 500g",
+      "price": "2,29 €",
+      "unit": "500g (1 kg = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/7300140/7463100_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Milchreis 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8985727/41393412_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Express Getreide & Linsen 250g",
+      "price": "1,49 €",
+      "unit": "250g (1 kg = 5,96 €)",
+      "imageUrl": "https://img.rewe-static.de/7639176/42309024_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Wurzener Milchreis 4x125g",
+      "price": "2,05 €",
+      "unit": "4x125g (1 kg = 4,10 €)",
+      "imageUrl": "https://img.rewe-static.de/2359324/7463610_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Mediterran 250g",
+      "price": "1,89 €",
+      "unit": "250g (1 kg = 7,56 €)",
+      "imageUrl": "https://img.rewe-static.de/9967704/45732379_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Himalaya Basmati 1kg",
+      "price": "4,49 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/0483958/23174530_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Oryza Himalaya Basmati 500g",
+      "price": "2,29 €",
+      "unit": "500g (1 kg = 4,58 €)",
+      "imageUrl": "https://img.rewe-static.de/2600315/1231150_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Cau Tre Reispapier rund 22cm 280g",
+      "price": "3,19 €",
+      "unit": "280g (1 kg = 11,39 €)",
+      "imageUrl": "https://img.rewe-static.de/7856038/34078033_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Milchreis 500g",
+      "price": "1,59 €",
+      "unit": "500g (1 kg = 3,18 €)",
+      "imageUrl": "https://img.rewe-static.de/7186200/28011466_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Oriental Express Reis 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/8041769/30389899_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Langkorn Express Reis 250g",
+      "price": "1,29 €",
+      "unit": "250g (1 kg = 5,16 €)",
+      "imageUrl": "https://img.rewe-static.de/8397907/30994912_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Müller's Mühle Langkorn Reis im Beutel 4x125g",
+      "price": "1,99 €",
+      "unit": "4x125g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8982226/41237024_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Slendier Bio Rice Style Shirataki glutenfrei 250g",
+      "price": "2,99 €",
+      "unit": "250g (1 kg = 11,96 €)",
+      "imageUrl": "https://img.rewe-static.de/2413411/25411606_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Basmati Reis 1kg",
+      "price": "2,99 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/7087342/27710925_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Jasmin Reis 1kg",
+      "price": "2,49 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/8350407/30349583_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Parboiled Spitzenreis Langkornreis 1kg",
+      "price": "1,59 €",
+      "unit": "1000g",
+      "imageUrl": "https://img.rewe-static.de/7227868/3877230_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Milchreis 500g",
+      "price": "0,99 €",
+      "unit": "500g (1 kg = 1,98 €)",
+      "imageUrl": "https://img.rewe-static.de/2107010/23116651_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Langkorn-Spitzenreis im Kochbeutel 4x125g",
+      "price": "0,99 €",
+      "unit": "4x125g (1 kg = 1,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1062430/8447940_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "nudeln": [
+    {
+      "name": "Barilla Spaghetti glutenfrei 400g",
+      "price": "3,49 €",
+      "unit": "400g (1 kg = 8,73 €)",
+      "imageUrl": "https://img.rewe-static.de/2167566/23715522_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Delverde Spaghetti 500g",
+      "price": "1,89 €",
+      "unit": "500g (1 kg = 3,78 €)",
+      "imageUrl": "https://img.rewe-static.de/5551374/2417930_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Möwe Spaghetti 500g",
+      "price": "1,39 €",
+      "unit": "500g (1 kg = 2,78 €)",
+      "imageUrl": "https://img.rewe-static.de/6557740/36476350_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Spaghetti glutenfrei 400g",
+      "price": "3,49 €",
+      "unit": "400g (1 kg = 8,73 €)",
+      "imageUrl": "https://img.rewe-static.de/9923183/47172620_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Delverde Spaghettini 71 500g",
+      "price": "1,89 €",
+      "unit": "500g (1 kg = 3,78 €)",
+      "imageUrl": "https://img.rewe-static.de/8925615/33309164_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Barilla Albronzo Spaghettoni 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/9942662/47169939_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Barilla Spaghetti Nr.5 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1483021/20428098_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Barilla Spaghettini Nr.3 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/1483005/20764382_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Barilla Spaghettoni Nr.7 500g",
+      "price": "1,99 €",
+      "unit": "500g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/6754910/20769122_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Spaghetti Dinkel 500g",
+      "price": "1,65 €",
+      "unit": "500g (1 kg = 3,30 €)",
+      "imageUrl": "https://img.rewe-static.de/8365010/30447200_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Riesa Teigwaren Fitmacher Spaghetti 500g",
+      "price": "1,59 €",
+      "unit": "500g (1 kg = 3,18 €)",
+      "imageUrl": "https://img.rewe-static.de/5019753/21858458_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Riesa Teigwaren Schlemmerliebling Spaghetti 500g",
+      "price": "1,39 €",
+      "unit": "500g (1 kg = 2,78 €)",
+      "imageUrl": "https://img.rewe-static.de/0057622/2634320_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Just Taste Bio Edamame Spaghetti 250g",
+      "price": "3,19 €",
+      "unit": "250g (1 kg = 12,76 €)",
+      "imageUrl": "https://img.rewe-static.de/8392813/30389556_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Mirácoli Spaghetti für 5 Portionen 610g",
+      "price": "4,49 €",
+      "unit": "610,40g (1 kg = 7,36 €)",
+      "imageUrl": "https://img.rewe-static.de/8978858/40469041_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Dinkel Max Bio Dinkel Spaghetti 500g",
+      "price": "2,79 €",
+      "unit": "500g (1 kg = 5,58 €)",
+      "imageUrl": "https://img.rewe-static.de/2395698/25971255_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Spaghettoni Nr.412 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/2327079/24042555_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Alb-Gold Naturland Bio Spaghetti 500g",
+      "price": "1,59 €",
+      "unit": "500g (1 kg = 3,18 €)",
+      "imageUrl": "https://img.rewe-static.de/9914002/48708512_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Mirácoli Spaghetti mit Tomatensauce 3 Portionen 376,2g",
+      "price": "3,29 €",
+      "unit": "376,20g (1 kg = 8,75 €)",
+      "imageUrl": "https://img.rewe-static.de/7660917/40453033_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Spaghettini Nr. 11 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/5274346/9867720_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Spaghetti 500g",
+      "price": "",
+      "unit": "500g (1 kg = 1,98 €)",
+      "imageUrl": "https://img.rewe-static.de/8013454/6718540_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Spaghetti Nr. 12 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/3742016/1772330_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE frei von Spaghetti glutenfrei 500g",
+      "price": "1,59 €",
+      "unit": "500g (1 kg = 3,18 €)",
+      "imageUrl": "https://img.rewe-static.de/1290472/17237900_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Naturland Spaghetti Vollkorn 500g",
+      "price": "0,85 €",
+      "unit": "500g (1 kg = 1,70 €)",
+      "imageUrl": "https://img.rewe-static.de/8822896/37261414_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Slendier Spaghetti Style Bio Konjakwurzel vegan 250g",
+      "price": "2,99 €",
+      "unit": "250g (1 kg = 11,96 €)",
+      "imageUrl": "https://img.rewe-static.de/2314734/23375255_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Spaghetti N°3 500g",
+      "price": "1,39 €",
+      "unit": "500g (1 kg = 2,78 €)",
+      "imageUrl": "https://img.rewe-static.de/2632428/24971043_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "De Cecco Bio Spaghetti Nr. 12 500g",
+      "price": "2,69 €",
+      "unit": "500g (1 kg = 5,38 €)",
+      "imageUrl": "https://img.rewe-static.de/0473795/44009085_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Spaghetti mit Frischei 500g",
+      "price": "1,59 €",
+      "unit": "500g (1 kg = 3,18 €)",
+      "imageUrl": "https://img.rewe-static.de/8282037/29254375_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Barilla Al Bronzo Spaghetti Nr. 305 500g",
+      "price": "2,49 €",
+      "unit": "500g (1 kg = 4,98 €)",
+      "imageUrl": "https://img.rewe-static.de/9942553/46661302_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Spaghetti 500g",
+      "price": "0,79 €",
+      "unit": "500g (1 kg = 1,58 €)",
+      "imageUrl": "https://img.rewe-static.de/0687999/37902543_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Spaghetti mit Tomatensauce 400g",
+      "price": "1,59 €",
+      "unit": "400g (1 kg = 3,98 €)",
+      "imageUrl": "https://img.rewe-static.de/2696946/25677556_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Dinkel Spaghetti 500g",
+      "price": "1,29 €",
+      "unit": "500g (1 kg = 2,58 €)",
+      "imageUrl": "https://img.rewe-static.de/8494755/32253971_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "eier-ei-ersatz": [
+    {
+      "name": "Von Hier Bio Eier 6 Stück",
+      "price": "3,59 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/1444878/23662296_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Landkost Ei Eier Bodenhaltung 10 Stück",
+      "price": "2,59 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/1995988/30378984_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hähnlein Bio Eier 6 Stück",
+      "price": "3,29 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/2062908/23306442_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Eier Freilandhaltung 6 Stück",
+      "price": "2,49 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/8446102/34418716_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bio Eier frisch 10 Stück",
+      "price": "3,39 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/7902683/33206641_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Respeggt Eier Freilandhaltung 10 Stück",
+      "price": "2,69 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/8470640/31525372_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Eier Freilandhaltung 6 Stück",
+      "price": "1,99 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/8209143/28333268_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Eier Spitz und Bube 6 Stück",
+      "price": "2,99 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/7078288/27539478_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Eier Bodenhaltung 6 Stück",
+      "price": "1,59 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/9142970/45170425_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Landkost-Ei BB-Ei Bio Eier 10 Stück",
+      "price": "3,99 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/8762428/36094940_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Eier Freilandhaltung 4 Stück",
+      "price": "1,29 €",
+      "unit": "4 Stück",
+      "imageUrl": "https://img.rewe-static.de/8407133/31099100_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Brotzeit-Eier aus Bodenhaltung 6 Stück",
+      "price": "1,89 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/7871419/33973151_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Frische Eier aus Freilandhaltung 6 Stück",
+      "price": "2,09 €",
+      "unit": "6 Stück",
+      "imageUrl": "https://img.rewe-static.de/9952769/46463578_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Feine Welt Wachteleier Auslaufhaltung 12 Stück",
+      "price": "2,99 €",
+      "unit": "12 Stück",
+      "imageUrl": "https://img.rewe-static.de/7056609/26873057_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Veggo Aquafaba Ei Ersatz vegan 0,5l",
+      "price": "2,99 €",
+      "unit": "0,50l (1 l = 5,98 €)",
+      "imageUrl": "https://img.rewe-static.de/7829092/35149112_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Biozentrale Bio Ei-Ersatz vegan 20g",
+      "price": "1,29 €",
+      "unit": "20g (1 kg = 64,50 €)",
+      "imageUrl": "https://img.rewe-static.de/8439243/32049282_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio + vegan Eiersatz 15g",
+      "price": "0,79 €",
+      "unit": "15g (1 kg = 52,67 €)",
+      "imageUrl": "https://img.rewe-static.de/8893877/39124597_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Frische Eier aus Bodenhaltung 10 Stück",
+      "price": "1,99 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/7937888/32330762_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Bunte Eier 10 Stück",
+      "price": "2,49 €",
+      "unit": "10 Stück",
+      "imageUrl": "https://img.rewe-static.de/8929423/42230094_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ],
+  "frischmilch": [
+    {
+      "name": "Arla LactoFree Laktosefreie Milch 1,5% 1l",
+      "price": "2,09 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/8023985/40601699_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Arla LactoFree Laktosefreie Milch 3,5% 1l",
+      "price": "2,19 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/8398989/40601719_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hemme Milch 1,8% 1l",
+      "price": "1,49 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/1042421/20674211_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Hemme Milch Frische Vollmilch 3,7% 1l",
+      "price": "1,59 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/1042422/8646730_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Landliebe fettarme Landmilch 1,5% 1l",
+      "price": "1,59 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/6920632/8124490_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bärenmarke Alpenfrische Milch 1,8% 1l",
+      "price": "",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/4561767/3754160_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Weihenstephan Frische Milch 1,5% 0,5l",
+      "price": "1,05 €",
+      "unit": "0,50l (1 l = 2,10 €)",
+      "imageUrl": "https://img.rewe-static.de/0533822/7397490_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Frische Weidemilch 3,8% 1l",
+      "price": "1,25 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/0197872/2357080_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Bärenmarke Die Alpenfrische Vollmilch 1l",
+      "price": "",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/1252410/25380943_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Bio Frische Weidemilch 1,5% 1l",
+      "price": "1,15 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/0197862/3568680_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gläserne Molkerei Bio Frische Weidemilch 1l",
+      "price": "1,65 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/2213477/34267599_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Weidemilch 1,5% 1l",
+      "price": "1,15 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/8044698/30643506_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "REWE Beste Wahl Weide Vollmilch 3,5% 1l",
+      "price": "1,25 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/8045202/30643271_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gläserne Molkerei Frische Weidemilch Bio 3,8 1l",
+      "price": "1,75 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/2196833/33828513_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Gläserne Molkerei Bio Frische Heu Milch 3,8% 1l",
+      "price": "1,95 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/8761548/36094908_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Schwarzwaldmilch LAC Frische Vollmilch 3,5% 1l",
+      "price": "1,89 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/1040053/22782026_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "Landliebe frische Landmilch 3,8% 1l",
+      "price": "1,69 €",
+      "unit": "1l\nzzgl. 0,15€ Pfand",
+      "imageUrl": "https://img.rewe-static.de/4561040/7396890_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Frische Vollmilch 3,5% 1l",
+      "price": "1,09 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/2865690/25483483_digital-image.png?imwidth=304&impolicy=kues"
+    },
+    {
+      "name": "ja! Frische fettarme Milch 1,5% 1l",
+      "price": "0,99 €",
+      "unit": "1l",
+      "imageUrl": "https://img.rewe-static.de/2865662/25483298_digital-image.png?imwidth=304&impolicy=kues"
+    }
+  ]
+}

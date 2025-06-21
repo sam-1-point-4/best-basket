@@ -1,0 +1,346 @@
+{
+  "stores": [
+    {
+      "name": "Aldi",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/aldi-logo-png_seeklogo-326055.png"
+    },
+    {
+      "name": "Lidl",
+      "logo": "https://images.seeklogo.com/logo-png/8/1/lidl-logo-png_seeklogo-83915.png"
+    },
+    {
+      "name": "Rewe",
+      "logo": "https://images.seeklogo.com/logo-png/25/1/rewe-logo-png_seeklogo-252426.png"
+    },
+    {
+      "name": "Edeka",
+      "logo": "https://images.seeklogo.com/logo-png/26/1/edeka-logo-png_seeklogo-269652.png"
+    },
+    {
+      "name": "Kaufland",
+      "logo": "https://images.seeklogo.com/logo-png/50/1/kaufland-logo-png_seeklogo-504867.png"
+    },
+    {
+      "name": "Netto",
+      "logo": "https://images.seeklogo.com/logo-png/35/1/netto-marken-discount-logo-png_seeklogo-356846.png"
+    },
+    {
+      "name": "Penny",
+      "logo": "https://images.seeklogo.com/logo-png/34/1/penny-logo-png_seeklogo-342690.png"
+    }
+  ],
+  "categories": [
+    "Milchprodukte",
+    "Obst & Gemüse",
+    "Backwaren",
+    "Fleisch & Wurst",
+    "Getränke",
+    "Trockenware",
+    "Süßwaren",
+    "Tiefkühlkost",
+    "Frühstück",
+    "Aufstriche"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Milch (1L)",
+      "category": "Milchprodukte",
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 0.99,
+        "Lidl": 0.95,
+        "Rewe": 1.09,
+        "Edeka": 1.15,
+        "Kaufland": 1.05,
+        "Netto": 0.98,
+        "Penny": 0.97
+      }
+    },
+    {
+      "id": 2,
+      "name": "Brot",
+      "category": "Backwaren",
+      "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 1.29,
+        "Lidl": 1.25,
+        "Rewe": 1.39,
+        "Edeka": 1.45,
+        "Kaufland": 1.35,
+        "Netto": 1.28,
+        "Penny": 1.27
+      }
+    },
+    {
+      "id": 3,
+      "name": "Eier (10 Stück)",
+      "category": "Milchprodukte",
+      "image": "https://images.unsplash.com/photo-1587486913049-53fc88980cfc?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 1.99,
+        "Lidl": 1.95,
+        "Rewe": 2.19,
+        "Edeka": 2.25,
+        "Kaufland": 2.05,
+        "Netto": 1.98,
+        "Penny": 1.97
+      }
+    },
+    {
+      "id": 4,
+      "name": "Käse (250g)",
+      "category": "Milchprodukte",
+      "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 1.49,
+        "Lidl": 1.45,
+        "Rewe": 1.69,
+        "Edeka": 1.75,
+        "Kaufland": 1.55,
+        "Netto": 1.48,
+        "Penny": 1.47
+      }
+    },
+    {
+      "id": 5,
+      "name": "Äpfel (1kg)",
+      "category": "Obst & Gemüse",
+      "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 1.99,
+        "Lidl": 1.95,
+        "Rewe": 2.29,
+        "Edeka": 2.35,
+        "Kaufland": 2.15,
+        "Netto": 1.98,
+        "Penny": 1.97
+      }
+    },
+    {
+      "id": 6,
+      "name": "Banane (1kg)",
+      "category": "Obst & Gemüse",
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 1.29,
+        "Lidl": 1.25,
+        "Rewe": 1.49,
+        "Edeka": 1.55,
+        "Kaufland": 1.35,
+        "Netto": 1.28,
+        "Penny": 1.27
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hackfleisch (500g)",
+      "category": "Fleisch & Wurst",
+      "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 3.99,
+        "Lidl": 3.95,
+        "Rewe": 4.29,
+        "Edeka": 4.35,
+        "Kaufland": 4.15,
+        "Netto": 3.98,
+        "Penny": 3.97
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mineralwasser (1.5L)",
+      "category": "Getränke",
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 0.29,
+        "Lidl": 0.25,
+        "Rewe": 0.39,
+        "Edeka": 0.45,
+        "Kaufland": 0.35,
+        "Netto": 0.28,
+        "Penny": 0.27
+      }
+    },
+    {
+      "id": 9,
+      "name": "Nudeln (500g)",
+      "category": "Trockenware",
+      "image": "https://images.unsplash.com/photo-1633352615955-f0c99e8b7e5a?q=80&w=1588&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 0.79,
+        "Lidl": 0.75,
+        "Rewe": 0.89,
+        "Edeka": 0.95,
+        "Kaufland": 0.85,
+        "Netto": 0.78,
+        "Penny": 0.77
+      }
+    },
+    {
+      "id": 10,
+      "name": "Schokolade (100g)",
+      "category": "Süßwaren",
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 0.89,
+        "Lidl": 0.85,
+        "Rewe": 0.99,
+        "Edeka": 1.05,
+        "Kaufland": 0.95,
+        "Netto": 0.88,
+        "Penny": 0.87
+      }
+    },
+    {
+      "id": 11,
+      "name": "Pizza (450g)",
+      "category": "Tiefkühlkost",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=60",
+      "prices": {
+        "Aldi": 2.99,
+        "Lidl": 2.95,
+        "Rewe": 3.29,
+        "Edeka": 3.35,
+        "Kaufland": 3.15,
+        "Netto": 2.98,
+        "Penny": 2.97
+      }
+    },
+    {
+      "id": 12,
+      "name": "Joghurt (500g)",
+      "category": "Milchprodukte",
+      "image": "https://images.unsplash.com/photo-1530259152377-3a014e1092e0?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 0.89,
+        "Lidl": 0.85,
+        "Rewe": 0.99,
+        "Edeka": 1.05,
+        "Kaufland": 0.95,
+        "Netto": 0.88,
+        "Penny": 0.87
+      }
+    },
+    {
+      "id": 13,
+      "name": "Butter (250g)",
+      "category": "Milchprodukte",
+      "image": "https://images.unsplash.com/photo-1603596310923-dbb12732f9c7?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 2.0,
+        "Lidl": 2.21,
+        "Rewe": 1.98,
+        "Edeka": 1.76,
+        "Kaufland": 2.08,
+        "Netto": 1.86,
+        "Penny": 1.8
+      }
+    },
+    {
+      "id": 14,
+      "name": "Milka Schokolade (100g)",
+      "category": "Süßwaren",
+      "image": "https://images.unsplash.com/photo-1648887934508-9f68b6fcbb91?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 0.67,
+        "Lidl": 0.59,
+        "Rewe": 0.66,
+        "Edeka": 0.68,
+        "Kaufland": 0.64,
+        "Netto": 0.63,
+        "Penny": 0.65
+      }
+    },
+    {
+      "id": 15,
+      "name": "Sonnenblumenöl (1L)",
+      "category": "Trockenware",
+      "image": "https://images.unsplash.com/photo-1662058595162-10e024b1a907?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 2.26,
+        "Lidl": 2.36,
+        "Rewe": 2.32,
+        "Edeka": 2.12,
+        "Kaufland": 2.0,
+        "Netto": 2.16,
+        "Penny": 2.20
+      }
+    },
+    {
+      "id": 16,
+      "name": "Marmelade (450g)",
+      "category": "Frühstück",
+      "image": "https://images.unsplash.com/photo-1632848129232-f816b590e5e3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 1.79,
+        "Lidl": 1.69,
+        "Rewe": 1.89,
+        "Edeka": 1.95,
+        "Kaufland": 1.85,
+        "Netto": 1.78,
+        "Penny": 1.77
+      }
+    },
+    {
+      "id": 17,
+      "name": "Honig (500g)",
+      "category": "Frühstück",
+      "image": "https://images.unsplash.com/photo-1613548058193-1cd24c1bebcf?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 3.49,
+        "Lidl": 3.39,
+        "Rewe": 3.69,
+        "Edeka": 3.75,
+        "Kaufland": 3.55,
+        "Netto": 3.48,
+        "Penny": 3.47
+      }
+    },
+    {
+      "id": 18,
+      "name": "Erdbeermarmelade (450g)",
+      "category": "Aufstriche",
+      "image": "https://plus.unsplash.com/premium_photo-1663850873212-53e5b5230cf1?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 1.89,
+        "Lidl": 1.79,
+        "Rewe": 1.99,
+        "Edeka": 2.05,
+        "Kaufland": 1.95,
+        "Netto": 1.88,
+        "Penny": 1.87
+      }
+    },
+    {
+      "id": 19,
+      "name": "Nutella (450g)",
+      "category": "Aufstriche",
+      "image": "https://images.unsplash.com/photo-1543254077-8bd7c22afbf1?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 3.99,
+        "Lidl": 3.89,
+        "Rewe": 4.19,
+        "Edeka": 4.25,
+        "Kaufland": 4.05,
+        "Netto": 3.98,
+        "Penny": 3.97
+      }
+    },
+    {
+      "id": 20,
+      "name": "Cola (1.5L)",
+      "category": "Getränke",
+      "image": "https://images.unsplash.com/photo-1607929680208-0528b0039b43?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prices": {
+        "Aldi": 1.19,
+        "Lidl": 1.15,
+        "Rewe": 1.39,
+        "Edeka": 1.45,
+        "Kaufland": 1.25,
+        "Netto": 1.18,
+        "Penny": 1.17
+      }
+    }
+  ]
+}
