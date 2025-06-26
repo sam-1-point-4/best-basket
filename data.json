@@ -10,7 +10,7 @@
     },
     {
       "name": "Wolt",
-      "logo": "https://images.seeklogo.com/logo-png/26/1/edeka-logo-png_seeklogo-269652.png"  
+      "logo": "https://images.seeklogo.com/logo-png/26/1/edeka-logo-png_seeklogo-269652.png"
     }
   ],
   "categories": [
@@ -25,242 +25,287 @@
   "products": [
     {
       "id": 1,
-      "name": "Milk (1L)",
       "category": "Milk Products",
-      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "image": "https://img.rewe-static.de/0575043/770460_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "PHILADELPHIA Frischkäsezubereitung",
+          "price": 0.99
+        },
+        "Wolt": {
+          "product": "Philadelphia natürlicher Doppelrahmkäse",
+          "price": 2.29
+        },
+        "Rewe": {
+          "product": "Philadelphia Natur Doppelrahmstufe 175g",
+          "price": 0.88
+        }
       }
     },
     {
       "id": 2,
-      "name": "Brot",
-      "category": "Backwaren",
-      "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Milk Products",
+      "image": "https://img.rewe-static.de/8839277/37779530_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "GUT BIO Bio-Feta",
+          "price": 2.69
+        },
+        "Wolt": {
+          "product": "Hellas Feta Käse",
+          "price": 2.39
+        },
+        "Rewe": {
+          "product": "Hellas Hirtenkäse 200g",
+          "price": 1.79
+        }
       }
     },
     {
       "id": 3,
-      "name": "Eier (10 Stück)",
-      "category": "Milchprodukte",
-      "image": "https://images.unsplash.com/photo-1587486913049-53fc88980cfc?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Cans & Preserved Foods",
+      "image": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2023/kw49/produkte/4096_49-2023_PremiumCornichons-Honig_ON_Comp.png/_jcr_content/renditions/original.transform/288w/img.250604.png",
+      "stores": {
+        "Aldi": {
+          "product": "KING'S CROWN Premium Cornichons",
+          "price": 0.99
+        },
+        "Wolt": {
+          "product": "Kühne Cornichons Xchlemmertöpfchen Balsamico Bianco",
+          "price": 3.79
+        },
+        "Rewe": {
+          "product": "REWE Beste Wahl Salz-Dillgurken 370g",
+          "price": 2.29
+        }
       }
     },
     {
       "id": 4,
-      "name": "Käse (250g)",
-      "category": "Milchprodukte",
-      "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Drinks",
+      "image": "https://img.rewe-static.de/2201429/3209700_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "RED BULL Energy-Drink Classic",
+          "price": 1.39
+        },
+        "Wolt": {
+          "product": "Red Bull Energy Drink",
+          "price": 1.65
+        },
+        "Rewe": {
+          "product": "Red Bull Energy Drink 0,25l",
+          "price": 0.88
+        }
       }
     },
     {
       "id": 5,
-      "name": "Äpfel (1kg)",
-      "category": "Obst & Gemüse",
-      "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Fruits & Vegetables",
+      "image": "https://img.rewe-static.de/0455217/19235570_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "Bananen",
+          "price": 0.99
+        },
+        "Wolt": {
+          "product": "Bananen, 5 Stück",
+          "price": 1.99
+        },
+        "Rewe": {
+          "product": "Banane ca. 200g",
+          "price": 0.26
+        }
       }
     },
     {
       "id": 6,
-      "name": "Banane (1kg)",
-      "category": "Obst & Gemüse",
-      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Sweets & Snacks",
+      "image": "https://img.rewe-static.de/6976638/7138610_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "STORCK merci",
+          "price": 2.99
+        },
+        "Wolt": {
+          "product": "Merci Große Vielfalt Schokolade",
+          "price": 4.69
+        },
+        "Rewe": {
+          "product": "Merci Helle Vielfalt 250g",
+          "price": 2.79
+        }
       }
     },
     {
       "id": 7,
-      "name": "Hackfleisch (500g)",
-      "category": "Fleisch & Wurst",
-      "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Pasta & Rice",
+      "image": "https://img.rewe-static.de/8569590/32343589_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "BAMBOO GARDEN Mie-Nudeln",
+          "price": 1.19
+        },
+        "Wolt": {
+          "product": "Alnatura Mie Nudeln bio",
+          "price": 1.79
+        },
+        "Rewe": {
+          "product": "Diamond Mie Noodles 250g",
+          "price": 1.69
+        }
       }
     },
     {
       "id": 8,
-      "name": "Mineralwasser (1.5L)",
-      "category": "Getränke",
-      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Baby & Hygiene Products",
+      "image": "https://img.rewe-static.de/8744550/40364244_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "Pampers premium protection",
+          "price": 3.38
+        },
+        "Wolt": {
+          "product": "Pampers Premium Protection Windeln, Größe 1",
+          "price": 5.39
+        },
+        "Rewe": {
+          "product": "Pampers Premium Protection Windeln Gr.1 2-5kg 24 Stück",
+          "price": 4.95
+        }
       }
     },
     {
       "id": 9,
-      "name": "Nudeln (500g)",
-      "category": "Trockenware",
-      "image": "https://images.unsplash.com/photo-1633352615955-f0c99e8b7e5a?q=80&w=1588&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Fruits & Vegetables",
+      "image": "https://img.rewe-static.de/0195588/21401313_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "Wassermelone",
+          "price": 1.29
+        },
+        "Wolt": {
+          "product": "Wassermelone Mini, 1 Stück",
+          "price": 5.99
+        },
+        "Rewe": {
+          "product": "Wassermelone rot kernarm ca. 3-4kg",
+          "price": 6.62
+        }
       }
     },
     {
       "id": 10,
-      "name": "Schokolade (100g)",
-      "category": "Süßwaren",
-      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Fruits & Vegetables",
+      "image": "https://img.rewe-static.de/1902921/23275435_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "Paprika rot",
+          "price": 1.19
+        },
+        "Wolt": {
+          "product": "Paprika rot, 500 g",
+          "price": 2.59
+        },
+        "Rewe": {
+          "product": "Paprika rot 500g",
+          "price": 1.39
+        }
       }
     },
     {
       "id": 11,
-      "name": "Pizza (450g)",
-      "category": "Tiefkühlkost",
-      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=60",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Milk Products",
+      "image": "https://img.rewe-static.de/2865690/25483483_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "MILSANI Frische Vollmilch",
+          "price": 1.09
+        },
+        "Wolt": {
+          "product": "Ja! H-Vollmilch 3,5%",
+          "price": 0.99
+        },
+        "Rewe": {
+          "product": "ja! Frische Vollmilch 3,5% 1l",
+          "price": 1.09
+        }
       }
     },
     {
       "id": 12,
-      "name": "Joghurt (500g)",
-      "category": "Milchprodukte",
-      "image": "https://images.unsplash.com/photo-1530259152377-3a014e1092e0?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Cans & Preserved Foods",
+      "image": "https://img.rewe-static.de/4840313/1435860_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "BARILLA Pesto",
+          "price": 1.69
+        },
+        "Wolt": {
+          "product": "Barilla Pesto alla Genovese",
+          "price": 3.59
+        },
+        "Rewe": {
+          "product": "Barilla Pesto alla Genovese 190g",
+          "price": 1.89
+        }
       }
     },
     {
       "id": 13,
-      "name": "Butter (250g)",
-      "category": "Milchprodukte",
-      "image": "https://images.unsplash.com/photo-1603596310923-dbb12732f9c7?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Drinks",
+      "image": "https://img.rewe-static.de/0518751/24421259_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "RIO D'ORO Apfelschorle",
+          "price": 1.19
+        },
+        "Wolt": {
+          "product": "Gerolsteiner Apfelschorle",
+          "price": 1.39
+        },
+        "Rewe": {
+          "product": "ja! Apelschorle 1,5l",
+          "price": 1.19
+        }
       }
     },
     {
       "id": 14,
-      "name": "Milka Schokolade (100g)",
-      "category": "Süßwaren",
-      "image": "https://images.unsplash.com/photo-1648887934508-9f68b6fcbb91?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
+      "category": "Milk Products",
+      "image": "https://img.rewe-static.de/7937888/32330762_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "LANDFREUDE Eier aus Bodenhaltung",
+          "price": 1.99
+        },
+        "Wolt": {
+          "product": "Landkost Ei Eier Bodenhaltung",
+          "price": 2.89
+        },
+        "Rewe": {
+          "product": "ja! Frische Eier aus Bodenhaltung 10 Stück",
+          "price": 1.99
+        }
       }
     },
     {
       "id": 15,
-      "name": "Sonnenblumenöl (1L)",
-      "category": "Trockenware",
-      "image": "https://images.unsplash.com/photo-1662058595162-10e024b1a907?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 0.99,
-        "Rewe": 1.09,
-        "Wolt": 0.97
-      }
-    },
-    {
-      "id": 16,
-      "name": "Marmelade (450g)",
-      "category": "Frühstück",
-      "image": "https://images.unsplash.com/photo-1632848129232-f816b590e5e3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 1.79,
-        "Lidl": 1.69,
-        "Rewe": 1.89,
-        "Edeka": 1.95,
-        "Kaufland": 1.85,
-        "Netto": 1.78,
-        "Penny": 1.77
-      }
-    },
-    {
-      "id": 17,
-      "name": "Honig (500g)",
-      "category": "Frühstück",
-      "image": "https://images.unsplash.com/photo-1613548058193-1cd24c1bebcf?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 3.49,
-        "Lidl": 3.39,
-        "Rewe": 3.69,
-        "Edeka": 3.75,
-        "Kaufland": 3.55,
-        "Netto": 3.48,
-        "Penny": 3.47
-      }
-    },
-    {
-      "id": 18,
-      "name": "Erdbeermarmelade (450g)",
-      "category": "Aufstriche",
-      "image": "https://plus.unsplash.com/premium_photo-1663850873212-53e5b5230cf1?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 1.89,
-        "Lidl": 1.79,
-        "Rewe": 1.99,
-        "Edeka": 2.05,
-        "Kaufland": 1.95,
-        "Netto": 1.88,
-        "Penny": 1.87
-      }
-    },
-    {
-      "id": 19,
-      "name": "Nutella (450g)",
-      "category": "Aufstriche",
-      "image": "https://images.unsplash.com/photo-1543254077-8bd7c22afbf1?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 3.99,
-        "Lidl": 3.89,
-        "Rewe": 4.19,
-        "Edeka": 4.25,
-        "Kaufland": 4.05,
-        "Netto": 3.98,
-        "Penny": 3.97
-      }
-    },
-    {
-      "id": 20,
-      "name": "Cola (1.5L)",
-      "category": "Getränke",
-      "image": "https://images.unsplash.com/photo-1607929680208-0528b0039b43?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "prices": {
-        "Aldi": 1.19,
-        "Lidl": 1.15,
-        "Rewe": 1.39,
-        "Edeka": 1.45,
-        "Kaufland": 1.25,
-        "Netto": 1.18,
-        "Penny": 1.17
+      "category": "Fruits & Vegetables",
+      "image": "https://img.rewe-static.de/0482595/24570316_digital-image.png",
+      "stores": {
+        "Aldi": {
+          "product": "Eisbergsalat",
+          "price": 0.69
+        },
+        "Wolt": {
+          "product": "Eisbergsalat, 1 Stück",
+          "price": 1.49
+        },
+        "Rewe": {
+          "product": "Eisbergsalat 1 Stück",
+          "price": 0.89
+        }
       }
     }
   ]
