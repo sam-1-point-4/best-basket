@@ -1,0 +1,97 @@
+import knime.scripting.io as knio
+import pandas as pd
+import json
+
+# Input: The table from your Pivoting node.
+df = knio.input_tables[0].to_pandas()
+
+# --- Diagnostic Prints (Optional: Keep for verification, then can be removed) ---
+# These lines help you verify the input DataFrame structure Node 1 receives.
+print("--- DataFrame Info (Node 1 Input) ---")
+print("Shape:", df.shape)
+print("Data Types:\n", df.dtypes)
+print("Head of DataFrame:\n", df.head())
+print("Columns:", df.columns.tolist()) # This will show the exact column names being read!
+print("--- End DataFrame Info ---")
+
+# Define the category mapping.
+CATEGORY_MAP = {
+    "philadelphia frischkäse": "Milk Products",
+    "merci helle vielfalt": "Sweets & Snacks",
+    "wassermelone": "Fruits & & Vegetables",
+    "banane": "Fruits & Vegetables",
+    "essiggurken": "Cans & Preserved Foods",
+    "pesto": "Pasta & Rice",
+    "apfel schorle": "Drinks",
+    "hirtenkäse": "Milk Products",
+    "paprika": "Fruits & Vegetables",
+    "mie nudeln": "Pasta & Rice",
+    "milch": "Milk Products",
+    "eier": "Milk Products",
+    "red bull energy drink": "Drinks",
+    "eisbergsalat": "Fruits & Vegetables",
+    "pampers windeln": "Baby & Hygiene Products",
+    "feta": "Milk Products",
+    "melone": "Fruits & Vegetables",
+    "salat": "Fruits & Vegetables",
+    "salzdillgurken": "Cans & Preserved Foods"
+}
+
+STORE_NAMES = ["Aldi", "Rewe", "Wolt"]
+
+processed_products = []
+product_id = 0
+
+for idx, row in df.iterrows():
+    product_id = product_id + 1 
+    normalized_name = row["normalized_product_name"]
+    
+    # --- Select a single representative image for the product ---
+    # The data.json structure expects one 'image' URL per product.
+    # We now correctly use the column naming convention: 'image+StoreName'.
+    product_image = None
+    for store_name in STORE_NAMES:
+        image_col_name = f"image+{store_name}" # RE-CORRECTED: Back to '+'
+        # Check if column exists and if its value is not missing (NaN)
+        if image_col_name in row and pd.notna(row[image_col_name]):
+            product_image = row[image_col_name]
+            break # Found an image, stop searching
+    
+    if product_image is None:
+        print(f"Warning: No image found for product: {normalized_name}. Using default.")
+        product_image = "https://example.com/default-image.png" # Placeholder
+
+    category = CATEGORY_MAP.get(normalized_name, "Unknown Category") 
+
+    stores_info = {}
+    for store_name in STORE_NAMES:
+        # RE-CORRECTED: Back to '+' for product and normalized_price columns
+        raw_product_name_col = f"product+{store_name}"
+        normalized_price_col = f"normalized_price+{store_name}"
+        
+        # Ensure both columns exist for the current store before attempting to access them
+        if raw_product_name_col in row and normalized_price_col in row:
+            raw_product_name = row[raw_product_name_col]
+            normalized_price = row[normalized_price_col]
+
+            # Only add store info if both product name and price are not NaN
+            if pd.notna(raw_product_name) and pd.notna(normalized_price):
+                try:
+                    stores_info[store_name] = {
+                        "product": raw_product_name,
+                        "price": float(normalized_price) 
+                    }
+                except ValueError as e:
+                    print(f"Error converting price for {normalized_name} in {store_name}: '{normalized_price}'. Error: {e}")
+            # else: If product name or price is NaN, this store's info is simply skipped, which is desired.
+        # else: If columns for a store don't even exist, this store's info is skipped.
+
+    processed_products.append({
+        "id": product_id,
+        "category": category,
+        "image": product_image,
+        "stores_json": json.dumps(stores_info) 
+    })
+
+output_df = pd.DataFrame(processed_products)
+knio.output_tables[0] = knio.Table.from_pandas(output_df)
